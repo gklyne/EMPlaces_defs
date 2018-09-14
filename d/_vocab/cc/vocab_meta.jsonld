@@ -1,0 +1,29 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/cc",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "cc",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://creativecommons.org/ns#",
+  "rdfs:comment": "# Creative commons namespace\r\n\r\nCreative Commons rights expression language namespace.",
+  "rdfs:label": "Creative commons namespace",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    },
+    {
+      "@id": "https://creativecommons.org/ns#"
+    },
+    {
+      "@id": "https://creativecommons.org/licenses/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Bib_entry",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Bib_entry",
+  "annal:supertype_uri": [],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "em:Bib_entry",
+  "rdfs:comment": "# Bibliographic entry\r\n\r\nDescribes a bibliographic reference to some primary or scholarly resource.",
+  "rdfs:label": "Bibliographic entry"
+}

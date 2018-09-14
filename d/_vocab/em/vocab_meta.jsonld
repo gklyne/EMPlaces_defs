@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/em",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "em",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://emplaces.namespace.example.org/",
+  "rdfs:comment": "# EMPlaces terms\r\n\r\nNamespaces for terms used to structure EMPlaces place descriptions",
+  "rdfs:label": "EMPlaces terms",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/tree/master/models"
+    },
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    }
+  ]
+}

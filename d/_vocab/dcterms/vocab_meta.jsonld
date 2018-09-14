@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/dcterms",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "dcterms",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://purl.org/dc/terms/",
+  "rdfs:comment": "# DC terms namespace\r\n\r\nDublin Core terms for general publication information.",
+  "rdfs:label": "DC terms namespace",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    },
+    {
+      "@id": "http://dublincore.org/documents/dcmi-terms/"
+    }
+  ]
+}

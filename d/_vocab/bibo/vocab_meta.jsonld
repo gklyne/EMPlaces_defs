@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/bibo",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "bibo",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://purl.org/ontology/bibo/",
+  "rdfs:comment": "# BIBO bibliography namespace\r\n\r\nTerms used in bibliography definitions (along with other namespace terms).",
+  "rdfs:label": "BIBO bibliography namespace",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    },
+    {
+      "@id": "http://bibliontology.com/"
+    }
+  ]
+}

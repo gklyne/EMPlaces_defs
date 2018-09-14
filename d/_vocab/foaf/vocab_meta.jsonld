@@ -1,0 +1,29 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/foaf",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "foaf",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://xmlns.com/foaf/0.1/",
+  "rdfs:comment": "# FOAF namespace\r\n\r\nTerms for describing people; used in bibliography descriptions.",
+  "rdfs:label": "FOAF namespace",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    },
+    {
+      "@id": "http://xmlns.com/foaf/0.1/"
+    },
+    {
+      "@id": "http://xmlns.com/foaf/spec/"
+    }
+  ]
+}

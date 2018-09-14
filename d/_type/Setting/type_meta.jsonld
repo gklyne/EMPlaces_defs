@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Setting",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Setting",
+  "annal:supertype_uri": [],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "em:Setting",
+  "rdfs:comment": "# Setting: location and period\r\n\r\nA resource that denotes both location and duration information about a place.  Through its lifetime, a place may have several settings, e.g. if its location changes at different times.\r\n\r\nA setting includes information about [Location]($BASE:_type/Location_value) and [Time period]($BASE:_type/Time_period).\r\n",
+  "rdfs:label": "Setting: location and period"
+}

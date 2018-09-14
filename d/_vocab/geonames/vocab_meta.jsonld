@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/geonames",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "geonames",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://sws.geonames.org/",
+  "rdfs:comment": "# GeoNames place IDs\r\n\r\nNamespace for GeoNames place identifiers (distinct from terms used to describe places in GeoNames linked data).",
+  "rdfs:label": "GeoNames place IDs",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    }
+  ]
+}

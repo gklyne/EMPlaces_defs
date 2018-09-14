@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/wgs84_pos",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "wgs84_pos",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+  "rdfs:comment": "# Geolocation coordinates\r\n\r\nNamespace for terms used to describe geographic place coordinates (lattitude, longitude).\r\n",
+  "rdfs:label": "Geolocation coordinates",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    },
+    {
+      "@id": "https://www.w3.org/2003/01/geo/"
+    }
+  ]
+}

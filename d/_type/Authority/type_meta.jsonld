@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Authority",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Authority",
+  "annal:supertype_uri": [
+    {
+      "@id": "em:Source"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "em:Authority",
+  "rdfs:comment": "# Authority\r\n\r\nA source of information about a place that is considered to be authoritative (e.g. GeoNames for current information about a place).,",
+  "rdfs:label": "Authority"
+}

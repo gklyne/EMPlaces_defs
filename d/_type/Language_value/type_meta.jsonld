@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Language_value",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Language_value",
+  "annal:supertype_uri": [],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "em:Language_value",
+  "rdfs:comment": "# Language\r\n\r\nA resource that denotes a language (e.g. the language in which a particular name form might be used).\r\n\r\n@@TODO: consider just using [lexvo](http://www.lexvo.org/linkeddata/details.html)",
+  "rdfs:label": "Language"
+}

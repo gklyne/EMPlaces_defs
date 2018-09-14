@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/gn",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "gn",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.geonames.org/ontology#",
+  "rdfs:comment": "# GeoNames vocabulary terms\r\n\r\nTerms used in GeoNames place descriptions when presented as linked data.\r\n\r\nThere is a separate namespace for GeoNames place identifiers.\r\n",
+  "rdfs:label": "GeoNames vocabulary terms",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    }
+  ]
+}

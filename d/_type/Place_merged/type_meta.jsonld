@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Place_merged",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Place_merged",
+  "annal:supertype_uri": [
+    {
+      "@id": "em:Place"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "em:Place_merged",
+  "rdfs:comment": "# Place information merged from multiple sources\r\n\r\nEntity type [Place_merged]($BASE:_type/Place_merged), subtype of [Place]($BASE:_type/Place).\r\n\r\nA resource that provides information about a place that comes from a multiple source.  One or more em:place_data properties reference single sourced information about the place.\r\n\r\n@@TODO: consider also adding something like foaf:primaryTopic to be clear about description / described entity issues.",
+  "rdfs:label": "Place information merged from multiple sources"
+}
