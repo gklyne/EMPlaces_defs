@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Place_type",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Place_type",
+  "annal:default_view": "_view/Place_type",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Place_type",
+  "annal:list_entity_selector": "'em:Place_type' in [@type]",
+  "annal:list_entity_type": "em:Place_type",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Place type list\n\nList entities of type [Place type]($BASE:_type/Place_type).",
+  "rdfs:label": "Place type list"
+}

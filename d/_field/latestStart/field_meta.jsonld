@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/latestStart",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "xsd:year",
+  "annal:id": "latestStart",
+  "annal:placeholder": "(Year, expressed using Gregorian calendar, by which a timespan is known  to have started)",
+  "annal:property_uri": "em:latestStart",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Latest start year\r\n\r\nThe latest year by which a timespan has started, expressed using Gregorian calendar.\r\n\r\nThe intent is that this captures definite knowledge about a timespan, which may have started at some unknown time before the indicated year.\r\n",
+  "rdfs:label": "Latest start year"
+}

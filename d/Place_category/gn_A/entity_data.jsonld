@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_category/gn_A",
+  "@type": [
+    "em:Place_category",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_A",
+  "annal:type": "em:Place_category",
+  "annal:type_id": "Place_category",
+  "annal:uri": "gn:A",
+  "rdfs:comment": "# Administrative division\r\n\r\nAn administrative division (or region) as defined by GeoNames.  The GeoNames notion of an administrative division divides into a specifically defined hierarchy, with names that are quite generic (i.e. \"first order administrative division\") and can be mapped into most country-specific administrative divisions.\r\n",
+  "rdfs:label": "Administrative division"
+}

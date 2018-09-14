@@ -1,0 +1,47 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/Time_span",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:id": "Time_span",
+  "annal:open_view": true,
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:uri": "annal:display/Default_view",
+  "annal:view_entity_type": "em:Time_span",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_comment",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/latestStart",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/earliestEnd",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "# Time span view\r\n\r\nView entity of type [Time span]($BASE:_type/Time_span).",
+  "rdfs:label": "Time span view"
+}

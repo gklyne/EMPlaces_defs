@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_category/gn_P",
+  "@type": [
+    "em:Place_category",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_P",
+  "annal:type": "em:Place_category",
+  "annal:type_id": "Place_category",
+  "annal:uri": "gn:P",
+  "rdfs:comment": "# Populated place\r\n\r\nA populated place as defined by GeoNames.",
+  "rdfs:label": "Populated place"
+}

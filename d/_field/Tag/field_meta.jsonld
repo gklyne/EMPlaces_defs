@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Tag",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "en",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Tag",
+  "annal:placeholder": "(Language tag string)",
+  "annal:property_uri": "em:tag",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "A short tag used to identify a language.  Currently, using ISO 2-letter language tags.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Language tag\r\n\r\nA short tag used to identify a language.  Currently, using ISO 2-letter language tags.\r\n\r\n@@TODO: clarify alignment with, e.g., RDF literal language tags\r\n",
+  "rdfs:label": "Language tag"
+}

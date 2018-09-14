@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Time_period",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Time_period",
+  "annal:default_view": "_view/Time_period",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Time_period",
+  "annal:list_entity_selector": "'em:Time_period' in [@type]",
+  "annal:list_entity_type": "em:Time_period",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Time period list\n\nList entities of type [Time period]($BASE:_type/Time_period).",
+  "rdfs:label": "Time period list"
+}

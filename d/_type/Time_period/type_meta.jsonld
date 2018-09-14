@@ -14,8 +14,8 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Time_period",
+  "annal:type_view": "_view/Time_period",
   "annal:uri": "em:Time_period",
   "rdfs:comment": "# Time period\r\n\r\nA resource that denotes an identified time period (in the sense of [PeriodO](http://perio.do/)).\r\n\r\n(See also [Setting]($BASE:_type/Setting).)",
   "rdfs:label": "Time period"

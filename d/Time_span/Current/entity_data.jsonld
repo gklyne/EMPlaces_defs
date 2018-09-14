@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Time_span/Current",
+  "@type": [
+    "em:Time_span",
+    "annal:EntityData"
+  ],
+  "annal:id": "Current",
+  "annal:type": "em:Time_span",
+  "annal:type_id": "Time_span",
+  "em:earliestEnd": "2018",
+  "em:latestStart": "2018",
+  "rdfs:comment": "# Current, as of 2018\r\n\r\nA time span used to indicate values that are current (as of 2018).  This value should be updated in live data to reflect the current year, but in archived data the original value used prevents errors in data cause, for example, bu places or relations that cease to exist after the data is created.\r\n\r\nThis is typically used in RDF like this (expressed using Turtle):\r\n\r\n    em:timespan\r\n      [ a em:Time_span ;\r\n        em:latestStart: \"2018\" ;\r\n        em:earliestEnd: \"2018\" ;\r\n      ]\r\n    .\r\n",
+  "rdfs:label": "Current, as of 2018"
+}

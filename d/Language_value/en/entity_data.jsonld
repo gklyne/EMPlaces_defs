@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Language_value/en",
+  "@type": [
+    "em:Language_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "en",
+  "annal:type": "em:Language_value",
+  "annal:type_id": "Language_value",
+  "annal:uri": "eml:en",
+  "em:tag": "en",
+  "rdfs:comment": "# English",
+  "rdfs:label": "English"
+}

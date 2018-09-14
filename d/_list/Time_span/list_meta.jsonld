@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Time_span",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Time_span",
+  "annal:default_view": "_view/Time_span",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Time_span",
+  "annal:list_entity_selector": "'em:Time_span' in [@type]",
+  "annal:list_entity_type": "em:Time_span",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Time span list\n\nList entities of type [Time span]($BASE:_type/Time_span).",
+  "rdfs:label": "Time span list"
+}

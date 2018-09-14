@@ -14,8 +14,8 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Language_value",
+  "annal:type_view": "_view/Language_value",
   "annal:uri": "em:Language_value",
   "rdfs:comment": "# Language\r\n\r\nA resource that denotes a language (e.g. the language in which a particular name form might be used).\r\n\r\n@@TODO: consider just using [lexvo](http://www.lexvo.org/linkeddata/details.html)",
   "rdfs:label": "Language"
