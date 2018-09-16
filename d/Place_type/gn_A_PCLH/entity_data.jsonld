@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_A_PCLH",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_A_PCLH",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:A.PCLH",
+  "rdfs:comment": "# Former independent political entity\r\n\r\nA former independent political entity, typically a country.  From GeoNames (feature code).\\\r\n",
+  "rdfs:label": "Former independent political entity",
+  "skos:broader": "Place_category/gn_A"
+}

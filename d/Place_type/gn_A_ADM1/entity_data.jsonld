@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_A_ADM1",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_A_ADM1",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:A.ADM1",
+  "rdfs:comment": "# First-order admin division\r\n\r\nA primary administrative division of a country, such as a state in the United States.  From GeoNames (feature code).\r\n",
+  "rdfs:label": "First-order admin division",
+  "skos:broader": "Place_category/gn_A"
+}

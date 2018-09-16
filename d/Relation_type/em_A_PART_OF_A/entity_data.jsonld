@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Relation_type/em_A_PART_OF_A",
+  "@type": [
+    "em:Relation_type",
+    "annal:EntityData"
+  ],
+  "annal:id": "em_A_PART_OF_A",
+  "annal:type": "em:Relation_type",
+  "annal:type_id": "Relation_type",
+  "annal:uri": "em:A_PART_OF_A",
+  "em:fromType": "Place_category/gn_A",
+  "em:toType": "Place_category/gn_A",
+  "rdfs:comment": "#  Subdivision of\r\n\r\nRelates a subdivision of an administrative division to its parent division.\r\n",
+  "rdfs:label": "Subdivision of"
+}

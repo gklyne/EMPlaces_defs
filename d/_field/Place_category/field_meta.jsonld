@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Place_category",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Place_type",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "entity[annal:record_type] subtype [annal:field_entity_type]",
+  "annal:field_ref_type": "_type/Place_category",
+  "annal:field_render_type": "_enum_render_type/Enum_optional",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "em:Place_category",
+  "annal:id": "Place_category",
+  "annal:placeholder": "(Select place category)",
+  "annal:property_uri": "skos:broader",
+  "annal:repeat_label_add": "",
+  "annal:repeat_label_delete": "",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "A link to a place category to which the current place type belongs.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Place category\r\n\r\nLinks a place type to a place category (using `skos:Broader`).",
+  "rdfs:label": "Place category"
+}

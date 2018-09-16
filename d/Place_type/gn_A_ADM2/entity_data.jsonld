@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_A_ADM2",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_A_ADM2",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:A.ADM2",
+  "rdfs:comment": "# Second-order admin division\r\n\r\nA subdivision of a first-order administrative division.  From GeoNames (feature code).\r\n",
+  "rdfs:label": "Second-order admin division",
+  "skos:broader": "Place_category/gn_A"
+}

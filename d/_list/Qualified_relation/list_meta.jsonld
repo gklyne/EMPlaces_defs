@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Qualified_relation",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Qualified_relation",
+  "annal:default_view": "_view/Qualified_relation",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Qualified_relation",
+  "annal:list_entity_selector": "'em:Qualified_relation' in [@type]",
+  "annal:list_entity_type": "em:Qualified_relation",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Qualified relation list\n\nList entities of type [Qualified relation]($BASE:_type/Qualified_relation).",
+  "rdfs:label": "Qualified relation list"
+}

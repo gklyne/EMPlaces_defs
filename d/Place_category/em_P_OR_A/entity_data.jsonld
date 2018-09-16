@@ -1,0 +1,36 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_category/em_P_OR_A",
+  "@type": [
+    "em:Place_category",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "em_P_OR_A",
+  "annal:type": "em:Place_category",
+  "annal:type_id": "Place_category",
+  "annal:uri": "em:P_OR_A",
+  "rdfs:comment": "# Former populated place or admin division\r\n\r\nFormer populated place or administrative division, used in historical administrative relations.\r\n\r\n",
+  "rdfs:label": "Former populated place or admin division",
+  "skos:broader": [
+    {
+      "@id": "Place_category/gn_P"
+    },
+    {
+      "@id": "Place_category/gn_A"
+    }
+  ],
+  "skos:narrower": [
+    {
+      "@id": "Place_category/gn_P"
+    },
+    {
+      "@id": "Place_category/gn_A"
+    }
+  ]
+}

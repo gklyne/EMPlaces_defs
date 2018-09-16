@@ -14,8 +14,8 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Relation_type",
+  "annal:type_view": "_view/Relation_type",
   "annal:uri": "em:Relation_type",
   "rdfs:comment": "# Relation type\r\n\r\nA resource that denotes a type of relation between places (e.g. a parent in an administrative hierarchy).",
   "rdfs:label": "Relation type"

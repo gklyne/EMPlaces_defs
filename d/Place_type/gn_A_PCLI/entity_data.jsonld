@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_A_PCLI",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_A_PCLI",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:A.PCLI",
+  "rdfs:comment": "# Independent political entity\r\n\r\nAn independent political entity, typically a country.  From GeoNames (feature code).\r\n",
+  "rdfs:label": "Independent political entity",
+  "skos:broader": "Place_category/gn_A"
+}

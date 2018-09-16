@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_P_PPLH",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_P_PPLH",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:P.PPLH",
+  "rdfs:comment": "# Former populated place\r\n\r\nA former populated place that no longer exists.  From GeoNames (feature code).\r\n",
+  "rdfs:label": "Former populated place",
+  "skos:broader": "Place_category/gn_P"
+}

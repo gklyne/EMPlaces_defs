@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Relation_type/em_AH_PART_OF_AH",
+  "@type": [
+    "em:Relation_type",
+    "annal:EntityData"
+  ],
+  "annal:id": "em_AH_PART_OF_AH",
+  "annal:type": "em:Relation_type",
+  "annal:type_id": "Relation_type",
+  "annal:uri": "em:AH_PART_OF_AH",
+  "em:fromType": "Place_category/em_P_OR_A",
+  "em:toType": "Place_category/gn_A",
+  "rdfs:comment": "#  Former part of\r\n\r\nRecords a historical relationship between a historical place or administrative division and its parent division.\r\n\r\nThis relation type allows the _from_ category to be a populated place or an administrative division, to avoid having to define and use multiple relation types for historic relations.\r\n",
+  "rdfs:label": "Former part of"
+}

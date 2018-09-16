@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_A_ADM3H",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_A_ADM3H",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:A.ADM3H",
+  "rdfs:comment": "# Former third-order admin division\r\n\r\nA former third-order administrative division.  From GeoNames (feature code).\r\n",
+  "rdfs:label": "Former third-order admin division",
+  "skos:broader": "Place_category/gn_A"
+}

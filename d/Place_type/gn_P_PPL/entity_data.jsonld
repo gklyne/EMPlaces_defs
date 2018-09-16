@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_P_PPL",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_P_PPL",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:P.PPL",
+  "rdfs:comment": "# Populated place\r\n\r\nA populated place (town, city, village, etc.).  From GeoNames (feature code).\r\n\r\n",
+  "rdfs:label": "Populated place",
+  "skos:broader": "Place_category/gn_P"
+}

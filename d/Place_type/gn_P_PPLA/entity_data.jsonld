@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_type/gn_P_PPLA",
+  "@type": [
+    "em:Place_type",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "gn_P_PPLA",
+  "annal:type": "em:Place_type",
+  "annal:type_id": "Place_type",
+  "annal:uri": "gn:P.PPLA",
+  "rdfs:comment": "# Seat of 1st-order admin div\r\n\r\nPopulated place that is a seat of a first-order administrative division.  From GeoNames (feature code).\r\n",
+  "rdfs:label": "Seat of 1st-order admin div",
+  "skos:broader": "Place_category/gn_P"
+}

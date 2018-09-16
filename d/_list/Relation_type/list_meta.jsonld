@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Relation_type",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Relation_type",
+  "annal:default_view": "_view/Relation_type",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Relation_type",
+  "annal:list_entity_selector": "'em:Relation_type' in [@type]",
+  "annal:list_entity_type": "em:Relation_type",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Relation type list\n\nList entities of type [Relation type]($BASE:_type/Relation_type).",
+  "rdfs:label": "Relation type list"
+}
