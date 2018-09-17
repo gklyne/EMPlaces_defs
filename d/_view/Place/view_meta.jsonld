@@ -5,16 +5,16 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_view/Relation_type",
+  "@id": "_view/Place",
   "@type": [
     "annal:View"
   ],
-  "annal:id": "Relation_type",
+  "annal:id": "Place",
   "annal:open_view": true,
   "annal:type": "annal:View",
   "annal:type_id": "_view",
   "annal:uri": "annal:display/Default_view",
-  "annal:view_entity_type": "em:Relation_type",
+  "annal:view_entity_type": "em:Place",
   "annal:view_fields": [
     {
       "annal:field_id": "_field/Entity_id",
@@ -22,31 +22,46 @@
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/Entity_uri",
+      "annal:field_id": "_field/Entity_type",
       "annal:field_placement": "small:0,12;medium:6,6",
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/from_type",
+      "annal:field_id": "_field/placeCategory",
       "annal:field_placement": "small:0,12;medium:0,6",
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/to_type",
+      "annal:field_id": "_field/placeType",
       "annal:field_placement": "small:0,12;medium:6,6",
       "annal:property_uri": ""
     },
     {
       "annal:field_id": "_field/Entity_label",
-      "annal:field_placement": "small:0,12",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/preferredName",
+      "annal:field_placement": "small:0,12;medium:6,6",
       "annal:property_uri": ""
     },
     {
       "annal:field_id": "_field/Entity_comment",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/displayName_many",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/alternateName_many",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
     }
   ],
-  "rdfs:comment": "# Relation type view\r\n\r\nView entity of type [Relation type]($BASE:_type/Relation_type).",
-  "rdfs:label": "Relation type view"
+  "rdfs:comment": "# Place view\r\n\r\nView entity of type [Place]($BASE:_type/Place).",
+  "rdfs:label": "Place view"
 }

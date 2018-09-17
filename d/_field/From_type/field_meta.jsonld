@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_field/From_type",
+  "@id": "_field/from_type",
   "@type": [
     "annal:Field"
   ],
@@ -19,7 +19,7 @@
   "annal:field_render_type": "_enum_render_type/Enum_optional",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "em:Place_category",
-  "annal:id": "From_type",
+  "annal:id": "from_type",
   "annal:placeholder": "(select place category or type this relation is _from_)",
   "annal:property_uri": "em:fromType",
   "annal:repeat_label_add": "Add",
@@ -28,6 +28,6 @@
   "annal:tooltip": "A place category or type that this relation may be _from_ (as in being a relation _from_ A _to_ B).",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# From category\r\n\r\nA place category or type that this relation may be _from_ (as in being a relation _from_ A _to_ B).\r\n",
-  "rdfs:label": "From category"
+  "rdfs:comment": "# From category/type\r\n\r\nA place category or type that this relation may be _from_ (as in being a relation _from_ A _to_ B).\r\n",
+  "rdfs:label": "From category/type"
 }

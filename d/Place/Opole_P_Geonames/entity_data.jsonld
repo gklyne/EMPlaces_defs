@@ -1,0 +1,81 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Opole_P_Geonames",
+  "@type": [
+    "em:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_Geonames",
+  "annal:type": "em:Place",
+  "annal:type_id": "Place",
+  "em:alternateName": [
+    {
+      "@language": "",
+      "@value": "Opole"
+    },
+    {
+      "@language": "",
+      "@value": "Oppein"
+    },
+    {
+      "@language": "",
+      "@value": "Oppeln"
+    },
+    {
+      "@language": "ko",
+      "@value": "\uc624\ud3f4\ub808"
+    },
+    {
+      "@language": "ja",
+      "@value": "\u30aa\u30dd\u30fc\u30ec"
+    },
+    {
+      "@language": "th",
+      "@value": "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25"
+    },
+    {
+      "@language": "da",
+      "@value": "Opole"
+    },
+    {
+      "@language": "en",
+      "@value": "Opole"
+    }
+  ],
+  "em:displayName": [
+    {
+      "@id": "Opole"
+    },
+    {
+      "@id": "Oppein"
+    },
+    {
+      "@id": "Oppeln"
+    },
+    {
+      "@id": "\u00d2p\u00f2le"
+    },
+    {
+      "@id": "Opol\u0117"
+    },
+    {
+      "@id": "Opol\u00ed"
+    },
+    {
+      "@id": "Uopole"
+    },
+    {
+      "@id": "\u041e\u043f\u043e\u043b\u0435"
+    }
+  ],
+  "em:placeCategory": "Place_category/gn_P",
+  "em:placeType": "Place_type/gn_P_PPL",
+  "em:preferredName": "",
+  "rdfs:comment": "Opole is a city located in southern Poland on the Oder River and the historical capital of Upper Silesia. With a population of approximately 127,792 (January 2017), it is currently the capital of the Opole Voivodeship and, also the seat of Opole County. With its long history dating back to the 8th century, Opole is one of the oldest cities in Poland.\r\n\r\n\r\n    em:alternateName \"Opole\"@eo ;\r\n    em:alternateName \"Opole\"@fi ;\r\n    em:alternateName \"Opole\"@fr ;\r\n    em:alternateName \"Opole\"@hu ;\r\n    em:alternateName \"Opole\"@id ;\r\n    em:alternateName \"Opole\"@it ;\r\n    em:alternateName \"Opole\"@jv ;\r\n    em:alternateName \"Opole\"@lv ;\r\n    em:alternateName \"Opole\"@na ;\r\n    em:alternateName \"Opole\"@nl ;\r\n    em:alternateName \"Opole\"@pl ;\r\n    em:alternateName \"Opole\"@pt ;\r\n    em:alternateName \"Opole\"@ro ;\r\n    em:alternateName \"Opole\"@sl ;\r\n    em:alternateName \"Opole\"@sv ;\r\n    em:alternateName \"\u00d2p\u00f2le\"@csb ;\r\n    em:alternateName \"Opol\u0117\"@lt ;\r\n    em:alternateName \"Opol\u00ed\"@cs ;\r\n    em:alternateName \"Oppeln\"@de ;\r\n    em:alternateName \"Oppeln\"@nds ;\r\n    em:alternateName \"Uopole\"@szl ;\r\n    em:alternateName \"\u0623\u0628\u0648\u0644\u0648\u0633\u0643\u064a\"@ar ;\r\n    em:alternateName \"\u0627\u0648\u067e\u0648\u0644\"@pnb ;\r\n    em:alternateName \"\u0627\u0648\u067e\u0648\u0644\u0647\"@fa ;\r\n    em:alternateName \"\u05d0\u05d5\u05e4\u05d5\u05dc\u05d4\"@he ;\r\n    em:alternateName \"\u0413\u043e\u0440\u0430\u0434 \u0410\u043f\u043e\u043b\u0435\"@be ;\r\n    em:alternateName \"\u041e\u043f\u043e\u043b\u0435\"@bg ;\r\n    em:alternateName \"\u041e\u043f\u043e\u043b\u0435\"@ru ;\r\n    em:alternateName \"\u041e\u043f\u043e\u043b\u0435\"@sr ;\r\n    em:alternateName \"\u041e\u043f\u043e\u043b\u0435\"@uk ;\r\n    em:alternateName \"\u5965\u6ce2\u83b1\"@zh ;\r\n",
+  "rdfs:label": "City of Opole"
+}

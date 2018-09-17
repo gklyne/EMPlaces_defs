@@ -1,0 +1,44 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/alternateName",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Place",
+  "annal:field_fields": [
+    {
+      "annal:field_id": "_field/name_string",
+      "annal:field_placement": "small:0,9",
+      "annal:property_uri": "@value"
+    },
+    {
+      "annal:field_id": "_field/name_language",
+      "annal:field_placement": "small:9,3",
+      "annal:property_uri": "@language"
+    }
+  ],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Group_Set_Row",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:LangText",
+  "annal:id": "alternateName",
+  "annal:placeholder": "(Alternate name)",
+  "annal:property_uri": "em:alternateName",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Alternate name (with optional language code) for a place.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "Alternate name for a place, consisting of a name string and a language code - there are typically several alternate names.",
+  "rdfs:label": "Alternate name"
+}
