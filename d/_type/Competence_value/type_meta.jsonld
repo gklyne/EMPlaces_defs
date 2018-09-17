@@ -14,8 +14,8 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Competence_value",
+  "annal:type_view": "_view/Competence_value",
   "annal:uri": "em:Competence_value",
   "rdfs:comment": "# Competence value\r\n\r\nA resource that denotes the competence of a claim (e.g. definitive, inferred, assumed, uncertain, approximate).\r\n",
   "rdfs:label": "Competence value"

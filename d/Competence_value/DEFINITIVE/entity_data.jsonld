@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Competence_value/DEFINITIVE",
+  "@type": [
+    "em:Competence_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "DEFINITIVE",
+  "annal:type": "em:Competence_value",
+  "annal:type_id": "Competence_value",
+  "annal:uri": "em:DEFINITIVE",
+  "rdfs:comment": "The associated value is definitively true for the purposes of EMPlaces.  Such information should ideally be backup up be authoritative source references.",
+  "rdfs:label": "Definitive"
+}

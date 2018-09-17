@@ -5,15 +5,15 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_field/Includes_place_categories",
+  "@id": "_field/Broader_category_or_type_many",
   "@type": [
     "annal:Field"
   ],
   "annal:default_value": "",
-  "annal:field_entity_type": "em:Place_category",
+  "annal:field_entity_type": "em:Place_category_or_type",
   "annal:field_fields": [
     {
-      "annal:field_id": "_field/Place_category",
+      "annal:field_id": "_field/Broader_category_or_type",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": "@id"
     }
@@ -24,16 +24,16 @@
   "annal:field_ref_type": "",
   "annal:field_render_type": "_enum_render_type/Group_Set_Row",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
-  "annal:field_value_type": "em:Place_category",
-  "annal:id": "Includes_place_categories",
-  "annal:placeholder": "(Zero, one or more Place category fields)",
+  "annal:field_value_type": "em:Place_category_or_type",
+  "annal:id": "Broader_category_or_type_many",
+  "annal:placeholder": "(Zero, one or more Place category or type values)",
   "annal:property_uri": "skos:narrower",
-  "annal:repeat_label_add": "Add Place category",
-  "annal:repeat_label_delete": "Remove Place category",
+  "annal:repeat_label_add": "Add Place category/type",
+  "annal:repeat_label_delete": "Remove Place category/type",
   "annal:superproperty_uri": [],
   "annal:tooltip": "",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Includes place categories\r\n\r\nZero, one or more instances of [Place category]($BASE:_field/Place_category) that are subsumed by the current place category.",
-  "rdfs:label": "Includes  place categories"
+  "rdfs:comment": "# Broader categories or types\r\n\r\nZero, one or more instances of [Place category]($BASE:_field/Place_category) that are subsumed by the current place category.",
+  "rdfs:label": "Broader categories or types"
 }

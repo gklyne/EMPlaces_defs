@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Competence_value/UNCERTAIN",
+  "@type": [
+    "em:Competence_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "UNCERTAIN",
+  "annal:type": "em:Competence_value",
+  "annal:type_id": "Competence_value",
+  "annal:uri": "em:UNCERTAIN",
+  "rdfs:comment": "The associated value is uncertain.",
+  "rdfs:label": "Uncertain"
+}

@@ -5,12 +5,12 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_field/Place_category",
+  "@id": "_field/Broader_category_or_type",
   "@type": [
     "annal:Field"
   ],
   "annal:default_value": "",
-  "annal:field_entity_type": "em:Place_type",
+  "annal:field_entity_type": "em:Place_category_or_type",
   "annal:field_fields": [],
   "annal:field_placement": "small:0,12",
   "annal:field_ref_field": "",
@@ -18,16 +18,16 @@
   "annal:field_ref_type": "_type/Place_category_or_type",
   "annal:field_render_type": "_enum_render_type/Enum_optional",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
-  "annal:field_value_type": "em:Place_category",
-  "annal:id": "Place_category",
-  "annal:placeholder": "(Select place category)",
+  "annal:field_value_type": "em:Place_category_or_type",
+  "annal:id": "Broader_category_or_type",
+  "annal:placeholder": "(Select place category or type)",
   "annal:property_uri": "skos:broader",
   "annal:repeat_label_add": "",
   "annal:repeat_label_delete": "",
   "annal:superproperty_uri": [],
-  "annal:tooltip": "A link to a place category to which the current place type belongs.",
+  "annal:tooltip": "A link to a place category or type of which the current value is a narrower concept.",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Place category\r\n\r\nLinks a place type to a place category (using `skos:Broader`).",
-  "rdfs:label": "Place category"
+  "rdfs:comment": "# Broader category or type\r\n\r\nReference to a place type or category (using `skos:Broader`).",
+  "rdfs:label": "Broader category or type"
 }

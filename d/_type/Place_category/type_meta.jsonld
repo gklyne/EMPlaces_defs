@@ -14,6 +14,9 @@
   "annal:supertype_uri": [
     {
       "@id": "skos:Concept"
+    },
+    {
+      "@id": "em:Place_category_or_type"
     }
   ],
   "annal:type": "annal:Type",

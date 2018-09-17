@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Competence_value/INFERRED",
+  "@type": [
+    "em:Competence_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "INFERRED",
+  "annal:type": "em:Competence_value",
+  "annal:type_id": "Competence_value",
+  "annal:uri": "em:INFERRED",
+  "rdfs:comment": "The associated value has been inferred from (preferably?) definitive information.",
+  "rdfs:label": "Inferred"
+}

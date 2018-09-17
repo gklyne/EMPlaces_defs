@@ -8,6 +8,7 @@
   "@id": "Place_category/em_P_OR_A",
   "@type": [
     "em:Place_category",
+    "em:Place_category_or_type",
     "skos:Concept",
     "annal:EntityData"
   ],

@@ -5,16 +5,16 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_view/Place_category",
+  "@id": "_view/Competence_value",
   "@type": [
     "annal:View"
   ],
-  "annal:id": "Place_category",
+  "annal:id": "Competence_value",
   "annal:open_view": true,
   "annal:type": "annal:View",
   "annal:type_id": "_view",
   "annal:uri": "annal:display/Default_view",
-  "annal:view_entity_type": "em:Place_category",
+  "annal:view_entity_type": "em:Competence_value",
   "annal:view_fields": [
     {
       "annal:field_id": "_field/Entity_id",
@@ -35,13 +35,8 @@
       "annal:field_id": "_field/Entity_comment",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
-    },
-    {
-      "annal:field_id": "_field/Broader_category_or_type_many",
-      "annal:field_placement": "small:0,12;medium:0,6",
-      "annal:property_uri": ""
     }
   ],
-  "rdfs:comment": "# Place category view\r\n\r\nView entity of type [Place category]($BASE:_type/Place_category).",
-  "rdfs:label": "Place category view"
+  "rdfs:comment": "# Competence value view\r\n\r\nView entity of type [Competence value]($BASE:_type/Competence_value).",
+  "rdfs:label": "Competence value view"
 }
