@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/location_latitude",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Location_value",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Float",
+  "annal:id": "location_latitude",
+  "annal:placeholder": "(Latitude in degrees)",
+  "annal:property_uri": "wgs84_pos:lat",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Latitude of geographic location, expressed as a floating point number, interpreted as degrees N (+ve) or S (-ve).",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Latitude\r\n\r\nLatitude of geographic location, expressed as a floating point number, interpreted as degrees N (+ve) or S (-ve).\r\n\r\nSee W3C Semantic Web Interest Group [Basic Geo (WGS84 lat/long) Vocabulary page](http://www.w3.org/2003/01/geo/) for details.",
+  "rdfs:label": "Latitude"
+}

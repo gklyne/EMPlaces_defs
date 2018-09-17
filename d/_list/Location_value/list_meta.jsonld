@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Location_value",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Location_value",
+  "annal:default_view": "_view/Location_value",
+  "annal:display_type": "List",
+  "annal:id": "Location_value",
+  "annal:list_entity_selector": "'em:Location_value' in [@type]",
+  "annal:list_entity_type": "em:Location_value",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Location list\n\nList entities of type [Location]($BASE:_type/Location_value).",
+  "rdfs:label": "Location list"
+}

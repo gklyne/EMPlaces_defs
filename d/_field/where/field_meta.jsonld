@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/where",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "_type/Setting",
+  "annal:field_render_type": "_enum_render_type/Enum_optional",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "em:Setting",
+  "annal:id": "where",
+  "annal:placeholder": "(Location and period for a place)",
+  "annal:property_uri": "em:where",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Indicates a setting (location and time period) for a place.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Where & when\r\n\r\nIndicates a setting (location and time period) for a place.\r\n\r\nMultiple settings may be associated with a place, to capture possible location changes through time.\r\n",
+  "rdfs:label": "Where & when"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/GeoNames_source",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "GeoNames_source",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "http://sws.geonames.org/3090048/about.rdf",
+  "rdfs:comment": "GeoNames data",
+  "rdfs:label": "GeoNames data"
+}

@@ -14,9 +14,9 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Source",
+  "annal:type_view": "_view/Source",
   "annal:uri": "em:Source",
-  "rdfs:comment": "# Source of claim\r\n\r\nA resourfce that denotes the source of a claim or data about a place (e.g. GeoNames).\r\n",
+  "rdfs:comment": "# Source of claim\r\n\r\nA resource that denotes the source of a claim or data about a place (e.g. GeoNames).\r\n",
   "rdfs:label": "Source of claim"
 }

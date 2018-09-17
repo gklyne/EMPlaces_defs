@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Setting/Opole_setting",
+  "@type": [
+    "em:Setting",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_setting",
+  "annal:type": "em:Setting",
+  "annal:type_id": "Setting",
+  "em:location": "Location_value/Opole_location",
+  "em:source": "Source/GeoNames_source",
+  "em:when": "Time_period/Current",
+  "rdfs:comment": "# Opole setting",
+  "rdfs:label": "Opole setting"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Source",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Source",
+  "annal:default_view": "_view/Source",
+  "annal:display_type": "List",
+  "annal:id": "Source",
+  "annal:list_entity_selector": "'em:Source' in [@type]",
+  "annal:list_entity_type": "em:Source",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Source of claim list\n\nList entities of type [Source of claim]($BASE:_type/Source).",
+  "rdfs:label": "Source of claim list"
+}
