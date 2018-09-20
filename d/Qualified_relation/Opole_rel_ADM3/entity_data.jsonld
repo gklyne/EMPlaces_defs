@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Qualified_relation/Opole_rel_ADM3",
+  "@type": [
+    "em:Qualified_relation",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_rel_ADM3",
+  "annal:type": "em:Qualified_relation",
+  "annal:type_id": "Qualified_relation",
+  "em:competence": "Competence_value/DEFINITIVE",
+  "em:relationTo": "Place/Opole_ADM3",
+  "em:relationType": "Relation_type/em_P_PART_OF_A",
+  "em:source": "Authority/GeoNames_source",
+  "rdfs:comment": "# Opole related to Opole ADM3",
+  "rdfs:label": "Opole related to Opole ADM3"
+}

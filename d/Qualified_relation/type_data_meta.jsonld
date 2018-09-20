@@ -1,0 +1,15 @@
+{
+  "@context": [
+    {
+      "@base": "../"
+    },
+    "../coll_context.jsonld"
+  ],
+  "@id": "Qualified_relation",
+  "@type": [
+    "annal:Type_Data"
+  ],
+  "annal:id": "Qualified_relation",
+  "annal:type": "annal:Type_Data",
+  "annal:type_id": "_entitytypedata"
+}

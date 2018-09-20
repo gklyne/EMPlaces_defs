@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Opole_ADM3",
+  "@type": [
+    "em:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_ADM3",
+  "annal:type": "em:Place",
+  "annal:type_id": "Place",
+  "em:alternateName": [],
+  "em:displayName": [],
+  "em:hasRelation": [],
+  "em:placeCategory": "Place_category/gn_A",
+  "em:placeType": "Place_type/gn_A_ADM3",
+  "em:preferredName": "Opole ADM3",
+  "em:where": "Setting/Opole_setting",
+  "rdfs:comment": "# Opole ADM3\r\n\r\n",
+  "rdfs:label": "Opole ADM3"
+}

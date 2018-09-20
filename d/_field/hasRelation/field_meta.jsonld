@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/hasRelation",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Place",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "_type/Qualified_relation",
+  "annal:field_render_type": "_enum_render_type/Enum_optional",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "em:Qualified_relation",
+  "annal:id": "hasRelation",
+  "annal:placeholder": "(select/define qualified relation to some other place)",
+  "annal:property_uri": "em:hasRelation",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Indicates a qualified relation to some other place.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Has relation\r\n\r\nIndicates a that the current place is in some specified relation to another place.\r\n\r\nUsage is along the lines of (using Turtle for illustration):\r\n\r\n    some_place\r\n        em:hasRelation\r\n          [ a em:Qualified_relation ;\r\n            em:relationTo another_place ;\r\n            em:relationType ...\r\n            :\r\n          ]\r\n        .\r\n\r\n",
+  "rdfs:label": "Has relation"
+}

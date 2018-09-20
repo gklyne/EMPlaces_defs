@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/relationType",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Qualified_relation",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "_type/Relation_type",
+  "annal:field_render_type": "_enum_render_type/Enum_optional",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "em:Relation_type",
+  "annal:id": "relationType",
+  "annal:placeholder": "(select relation type)",
+  "annal:property_uri": "em:relationType",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "The relation type of a qualified relation.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Relation type\r\n\r\nIndicates type of relationship between places that is asserted by a qualified relation.\r\n\r\nUsage is along the lines of (using Turtle for illustration):\r\n\r\n    some_place\r\n        em:hasRelation\r\n          [ a em:Qualified_relation ;\r\n            em:relationTo another_place ;\r\n            em:relationType ...\r\n            :\r\n          ]\r\n        .\r\n\r\n",
+  "rdfs:label": "Relation type"
+}

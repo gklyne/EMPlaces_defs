@@ -18,8 +18,8 @@
   ],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Source",
+  "annal:type_view": "_view/Source",
   "annal:uri": "em:Authority",
   "rdfs:comment": "# Authority\r\n\r\nA source of information about a place that is considered to be authoritative (e.g. GeoNames for current information about a place).,",
   "rdfs:label": "Authority"

@@ -14,7 +14,7 @@
   "annal:type": "em:Setting",
   "annal:type_id": "Setting",
   "em:location": "Location_value/Opole_location",
-  "em:source": "Source/GeoNames_source",
+  "em:source": "Authority/GeoNames_source",
   "em:when": "Time_period/Current",
   "rdfs:comment": "# Opole setting",
   "rdfs:label": "Opole setting"

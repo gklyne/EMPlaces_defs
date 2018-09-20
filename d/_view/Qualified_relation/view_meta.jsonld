@@ -18,21 +18,45 @@
   "annal:view_fields": [
     {
       "annal:field_id": "_field/Entity_id",
-      "annal:field_placement": "small:0,12;medium:0,6"
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
     },
     {
       "annal:field_id": "_field/Entity_type",
-      "annal:field_placement": "small:0,12;medium:6,6"
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/relationTo",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/relationType",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/competence",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/source",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
     },
     {
       "annal:field_id": "_field/Entity_label",
-      "annal:field_placement": "small:0,12"
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
     },
     {
       "annal:field_id": "_field/Entity_comment",
-      "annal:field_placement": "small:0,12"
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
     }
   ],
-  "rdfs:comment": "# Qualified relation view\n\nView entity of type [Qualified relation]($BASE:_type/Qualified_relation).",
+  "rdfs:comment": "# Qualified relation view\r\n\r\nView entity of type [Qualified relation]($BASE:_type/Qualified_relation).",
   "rdfs:label": "Qualified relation view"
 }

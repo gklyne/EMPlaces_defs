@@ -5,14 +5,15 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "Source/GeoNames_source",
+  "@id": "Authority/GeoNames_source",
   "@type": [
+    "em:Authority",
     "em:Source",
     "annal:EntityData"
   ],
   "annal:id": "GeoNames_source",
-  "annal:type": "em:Source",
-  "annal:type_id": "Source",
+  "annal:type": "em:Authority",
+  "annal:type_id": "Authority",
   "em:link": "http://sws.geonames.org/3090048/about.rdf",
   "rdfs:comment": "GeoNames data",
   "rdfs:label": "GeoNames data"
