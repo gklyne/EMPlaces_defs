@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Bib_entry",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Bib_entry",
+  "annal:default_view": "_view/Bib_entry",
+  "annal:display_type": "List",
+  "annal:id": "Bib_entry",
+  "annal:list_entity_selector": "'em:Bib_entry' in [@type]",
+  "annal:list_entity_type": "em:Bib_entry",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Bibliographic entry list\n\nList entities of type [Bibliographic entry]($BASE:_type/Bib_entry).",
+  "rdfs:label": "Bibliographic entry list"
+}

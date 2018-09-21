@@ -14,9 +14,9 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Map_resource",
+  "annal:type_view": "_view/Map_resource",
   "annal:uri": "em:Map_resource",
-  "rdfs:comment": "# Map resource\r\n\r\nA resource that references a map.",
+  "rdfs:comment": "# Map resource\r\n\r\nA resource that references a map.  This type is used for the body of a map resource annotation.",
   "rdfs:label": "Map resource"
 }

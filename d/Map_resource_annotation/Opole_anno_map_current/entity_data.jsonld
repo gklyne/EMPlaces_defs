@@ -1,0 +1,28 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Map_resource_annotation/Opole_anno_map_current",
+  "@type": [
+    "em:Map_resource_annotation",
+    "oa:Annotation",
+    "em:Annotation",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_anno_map_current",
+  "annal:type": "em:Map_resource_annotation",
+  "annal:type_id": "Map_resource_annotation",
+  "annal:uri": "",
+  "dcterms:created": "2018-09-20",
+  "dcterms:creator": "GK",
+  "em:source": "Authority/GeoNames_source",
+  "em:when": "Time_period/Current",
+  "oa:hasBody": "Map_resource/Opole_map_current",
+  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:motivatedBy": "Annotation_motivation/MAP_RESOURCE",
+  "rdfs:comment": "# Opole current map annotation",
+  "rdfs:label": "Opole current map annotation"
+}

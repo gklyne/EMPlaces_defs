@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "foaf_Agent/Slaskie_Wydawnictwo",
+  "@type": [
+    "foaf:Agent",
+    "annal:EntityData"
+  ],
+  "annal:id": "Slaskie_Wydawnictwo",
+  "annal:type": "foaf:Agent",
+  "annal:type_id": "foaf_Agent",
+  "foaf:name": "Wydawnictwo \u015al\u0105skie",
+  "rdfs:comment": "Wydawnictwo \u015al\u0105skie",
+  "rdfs:label": "Wydawnictwo \u015al\u0105skie"
+}

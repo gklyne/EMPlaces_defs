@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "bibo_Book/Opole_Emmerling_Zajaczkowska",
+  "@type": [
+    "bibo:Book",
+    "em:Bib_entry",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_Emmerling_Zajaczkowska",
+  "annal:type": "bibo:Book",
+  "annal:type_id": "bibo_Book",
+  "bibo:authorList": [],
+  "bibo:isbn10": "8391537137",
+  "bibo:isbn13": "978-8391537138",
+  "dcterms:date": "2003",
+  "dcterms:publisher": "foaf_Agent/Slaskie_Wydawnictwo",
+  "dcterms:source": "https://www.amazon.com/Opole-Capital-of-Opolskie-Province/dp/B0021JGAOI",
+  "dcterms:title": "Oppeln/Opole: Die Hauptstadt der Wojewodschaft Oppeln",
+  "rdfs:comment": "Oppeln/Opole: Die Hauptstadt der Wojewodschaft Oppeln",
+  "rdfs:label": "Oppeln/Opole: Die Hauptstadt der Wojewodschaft Oppeln"
+}

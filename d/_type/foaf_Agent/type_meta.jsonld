@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/foaf_Agent",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "foaf_Agent",
+  "annal:supertype_uri": [],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/foaf_Agent",
+  "annal:type_view": "_view/foaf_Agent",
+  "annal:uri": "foaf:Agent",
+  "rdfs:comment": "# Agent\r\n\r\nSee [FOAF spec](http://xmlns.com/foaf/spec/#term_Agent).",
+  "rdfs:label": "Agent"
+}

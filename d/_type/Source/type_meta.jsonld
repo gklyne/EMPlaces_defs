@@ -17,6 +17,6 @@
   "annal:type_list": "_list/Source",
   "annal:type_view": "_view/Source",
   "annal:uri": "em:Source",
-  "rdfs:comment": "# Source of claim\r\n\r\nA resource that denotes the source of a claim or data about a place (e.g. GeoNames).\r\n",
-  "rdfs:label": "Source of claim"
+  "rdfs:comment": "# Information source view\r\n\r\nA resource that denotes the source of a claim or data about a place (e.g. GeoNames).\r\n\r\nSubtype [Authority]($BASE:_type/Authority) is used for authoritative sources.\r\n",
+  "rdfs:label": "Information source"
 }

@@ -17,6 +17,6 @@
   "em:relationTo": "Place/Opole_ADM3",
   "em:relationType": "Relation_type/em_P_PART_OF_A",
   "em:source": "Authority/GeoNames_source",
-  "rdfs:comment": "# Opole related to Opole ADM3",
-  "rdfs:label": "Opole related to Opole ADM3"
+  "rdfs:comment": "# Opole relation to Opole ADM3",
+  "rdfs:label": "Opole relation to Opole ADM3"
 }

@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Annotation_motivation/MAP_RESOURCE",
+  "@type": [
+    "em:Annotation_motivation",
+    "oa:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "MAP_RESOURCE",
+  "annal:type": "em:Annotation_motivation",
+  "annal:type_id": "Annotation_motivation",
+  "annal:uri": "em:MAP_RESOURCE",
+  "rdfs:comment": "# Map resource annotation\r\n\r\nAn annotation type (motivation) that is used to indicate a reference to a map resource for a place.",
+  "rdfs:label": "Map resource annotation"
+}

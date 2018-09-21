@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Annotation_motivation/CALENDAR_IN_USE",
+  "@type": [
+    "em:Annotation_motivation",
+    "oa:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "CALENDAR_IN_USE",
+  "annal:type": "em:Annotation_motivation",
+  "annal:type_id": "Annotation_motivation",
+  "annal:uri": "em:CALENDAR_IN_USE",
+  "rdfs:comment": "# Calendar-in-use annotation\r\n\r\nAn annotation type (motivation) that is used to indicate a reference to a historical calendar-in-use annotation for a place.\r\n",
+  "rdfs:label": "Calendar-in-use annotation"
+}

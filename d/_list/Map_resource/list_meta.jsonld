@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Map_resource",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Map_resource",
+  "annal:default_view": "_view/Map_resource",
+  "annal:display_type": "List",
+  "annal:id": "Map_resource",
+  "annal:list_entity_selector": "'em:Map_resource' in [@type]",
+  "annal:list_entity_type": "em:Map_resource",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Map resource list\n\nList entities of type [Map resource]($BASE:_type/Map_resource).",
+  "rdfs:label": "Map resource list"
+}

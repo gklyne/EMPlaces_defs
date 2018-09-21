@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Annotation_motivation/NAME_ATTESTATION",
+  "@type": [
+    "em:Annotation_motivation",
+    "oa:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "NAME_ATTESTATION",
+  "annal:type": "em:Annotation_motivation",
+  "annal:type_id": "Annotation_motivation",
+  "annal:uri": "em:NAME_ATTESTATION",
+  "rdfs:comment": "# Name attestation annotation\r\n\r\nAn annotation type (motivation) that is used to indicate a reference to a historical name attestation for a place.\r\n",
+  "rdfs:label": "Name attestation annotation"
+}

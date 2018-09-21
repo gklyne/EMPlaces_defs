@@ -14,8 +14,8 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Bib_entry",
+  "annal:type_view": "_view/Bib_entry",
   "annal:uri": "em:Bib_entry",
   "rdfs:comment": "# Bibliographic entry\r\n\r\nDescribes a bibliographic reference to some primary or scholarly resource.",
   "rdfs:label": "Bibliographic entry"

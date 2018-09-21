@@ -1,0 +1,52 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/Map_resource",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:id": "Map_resource",
+  "annal:open_view": true,
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:uri": "annal:display/Default_view",
+  "annal:view_entity_type": "em:Map_resource",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/short_label",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_comment",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/link",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/preview",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "# Map resource view\r\n\r\nView entity of type [Map resource]($BASE:_type/Map_resource).\r\n",
+  "rdfs:label": "Map resource view"
+}

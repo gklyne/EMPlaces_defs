@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/bibo_Book",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "bibo_Book",
+  "annal:supertype_uri": [
+    {
+      "@id": "em:Bib_entry"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Bib_entry",
+  "annal:type_view": "_view/Bib_entry",
+  "annal:uri": "bibo:Book",
+  "rdfs:comment": "# Book\r\n\r\nEntity type [Book]($BASE:_type/bibo_Book), subtype of [Bibliographic entry]($BASE:_type/Bib_entry).",
+  "rdfs:label": "Book"
+}

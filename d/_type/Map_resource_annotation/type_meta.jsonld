@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Map_resource_annotation",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Map_resource_annotation",
+  "annal:supertype_uri": [
+    {
+      "@id": "em:Annotation"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Map_resource_annotation",
+  "annal:type_view": "_view/Map_resource_annotation",
+  "annal:uri": "em:Map_resource_annotation",
+  "rdfs:comment": "# Map resource annotation\r\n\r\nA Web Annotation used to associate a map resourcve with a place.\r\n\r\n",
+  "rdfs:label": "Map resource annotation"
+}

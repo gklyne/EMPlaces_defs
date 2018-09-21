@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Person",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Person",
+  "annal:default_view": "_view/Person",
+  "annal:display_type": "List",
+  "annal:id": "Person",
+  "annal:list_entity_selector": "'foaf:Person' in [@type]",
+  "annal:list_entity_type": "foaf:Person",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Person list\n\nList entities of type [Person]($BASE:_type/Person).",
+  "rdfs:label": "Person list"
+}

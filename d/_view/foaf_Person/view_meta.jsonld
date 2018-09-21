@@ -1,0 +1,51 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/foaf_Person",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:id": "foaf_Person",
+  "annal:open_view": true,
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:view_entity_type": "foaf:Person",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_comment",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/foaf_name",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/foaf_givenName",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/foaf_familyName",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "# Person view\r\n\r\nView entity of type [foaf:Person]($BASE:_type/foaf_Person).",
+  "rdfs:label": "Person view"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/hasAnnotation_many",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Place",
+  "annal:field_fields": [
+    {
+      "annal:field_id": "_field/hasAnnotation",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": "@id"
+    }
+  ],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Group_Set_Row",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "em:Place",
+  "annal:id": "hasAnnotation_many",
+  "annal:placeholder": "(Zero, one or more annotation fields)",
+  "annal:property_uri": "em:hasAnnotation",
+  "annal:repeat_label_add": "Add annotation",
+  "annal:repeat_label_delete": "Remove annotation",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Has annotations\r\n\r\nZero, one or more instances of [Has annotation]($BASE:_field/hasAnnotation).",
+  "rdfs:label": "Has annotations"
+}

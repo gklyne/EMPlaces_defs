@@ -1,0 +1,37 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/hasMapResourceAnnotation",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "em:Place",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "_type/Map_resource_annotation",
+  "annal:field_render_type": "_enum_render_type/Enum_optional",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "em:Map_resource_annotation",
+  "annal:id": "hasMapResourceAnnotation",
+  "annal:placeholder": "(select/define map resource annotation)",
+  "annal:property_uri": "em:hasMapResourceAnnotation",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [
+    {
+      "@id": "em:hasAnnotation"
+    }
+  ],
+  "annal:tooltip": "Reference to annotation that provides information about a map resource.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Has map resource\r\n\r\nProvides information about a map resource including the current place.\r\n\r\nUsage is along the lines of (using Turtle for illustration):\r\n\r\n    some_place\r\n        em:hasAnnotation\r\n          [ a oa:Annotation ;\r\n            oa:hasTarget some_place ;\r\n            oa:motivatedBy em:MAP_RESOURCE ;\r\n            oa:hasBody ... ;\r\n            em:when ... ;\r\n            em:source ... ;\r\n          ] .\r\n\r\n",
+  "rdfs:label": "Has map resource"
+}

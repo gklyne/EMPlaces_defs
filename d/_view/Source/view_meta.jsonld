@@ -37,11 +37,11 @@
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/Link",
+      "annal:field_id": "_field/link",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
     }
   ],
-  "rdfs:comment": "# Source of claim view\r\n\r\nView entity of type [Source of claim]($BASE:_type/Source).",
-  "rdfs:label": "Source of claim view"
+  "rdfs:comment": "# Information source view\r\n\r\nView entity of type [Information source view]($BASE:_type/Source).",
+  "rdfs:label": "Information source view"
 }

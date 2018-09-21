@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_field/Link",
+  "@id": "_field/link",
   "@type": [
     "annal:Field"
   ],
@@ -19,7 +19,7 @@
   "annal:field_render_type": "_enum_render_type/URILink",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "rdfs:Resource",
-  "annal:id": "Link",
+  "annal:id": "link",
   "annal:placeholder": "(Link to access resource)",
   "annal:property_uri": "em:link",
   "annal:repeat_label_add": "Add",

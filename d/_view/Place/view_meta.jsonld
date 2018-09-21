@@ -57,6 +57,11 @@
       "annal:property_uri": ""
     },
     {
+      "annal:field_id": "_field/hasMapResourceAnnotation_many",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
       "annal:field_id": "_field/Entity_comment",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
@@ -69,6 +74,21 @@
     {
       "annal:field_id": "_field/alternateName_many",
       "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/reference",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_see_also_r",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/editorialNote",
+      "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
     }
   ],

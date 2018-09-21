@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Contextualized_annotation",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Contextualized_annotation",
+  "annal:default_view": "_view/Contextualized_annotation",
+  "annal:display_type": "List",
+  "annal:id": "Contextualized_annotation",
+  "annal:list_entity_selector": "'em:Annotation' in [@type]",
+  "annal:list_entity_type": "em:Annotation",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Contextualized annotation list\n\nList entities of type [Contextualized annotation]($BASE:_type/Contextualized_annotation).",
+  "rdfs:label": "Contextualized annotation list"
+}
