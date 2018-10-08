@@ -1,0 +1,31 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Map_resource_annotation/Silesia_1561",
+  "@type": [
+    "em:Map_resource_annotation",
+    "oa:Annotation",
+    "em:Annotation",
+    "annal:EntityData"
+  ],
+  "annal:id": "Silesia_1561",
+  "annal:type": "em:Map_resource_annotation",
+  "annal:type_id": "Map_resource_annotation",
+  "dcterms:created": "2018-10-08",
+  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "em:source": [
+    {
+      "@id": "Source/David_Rumsey_map_collection"
+    }
+  ],
+  "em:when": "Time_period/Period_1561",
+  "oa:hasBody": "Map_resource/Silesia_1561",
+  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:motivatedBy": "Annotation_motivation/MAP_RESOURCE",
+  "rdfs:comment": "# Map of Silesia dated 1561",
+  "rdfs:label": "Map of Silesia dated 1561"
+}

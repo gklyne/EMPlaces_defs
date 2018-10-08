@@ -62,6 +62,16 @@
       "annal:property_uri": ""
     },
     {
+      "annal:field_id": "_field/hasNameAttestationAnnotation_many",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/hasCalendarUsedAnnotation_many",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
       "annal:field_id": "_field/Entity_comment",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
@@ -77,8 +87,13 @@
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/reference",
+      "annal:field_id": "_field/reference_many",
       "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/relatedResource_many",
+      "annal:field_placement": "",
       "annal:property_uri": ""
     },
     {

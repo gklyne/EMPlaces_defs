@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/David_Rumsey_map_collection",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "David_Rumsey_map_collection",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "https://davidrumsey.georeferencer.com/",
+  "rdfs:comment": "# David Rumsey map collection",
+  "rdfs:label": "David Rumsey map collection"
+}

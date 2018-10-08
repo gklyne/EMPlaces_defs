@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Map_resource/Silesia_1608",
+  "@type": [
+    "em:Map_resource",
+    "annal:EntityData"
+  ],
+  "annal:id": "Silesia_1608",
+  "annal:type": "em:Map_resource",
+  "annal:type_id": "Map_resource",
+  "em:link": "https://davidrumsey.georeferencer.com/maps/769642035679/view",
+  "em:preview": "https://davidrumsey.georeferencer.com/maps/769642035679/view",
+  "em:short_label": "1561",
+  "rdfs:comment": "# Map of Silesia dated 1608\r\n",
+  "rdfs:label": "Map of Silesia dated 1608"
+}

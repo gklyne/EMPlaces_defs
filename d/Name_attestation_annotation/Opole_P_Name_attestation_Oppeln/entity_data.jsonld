@@ -1,0 +1,28 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Oppeln",
+  "@type": [
+    "em:Name_attestation_annotation",
+    "oa:Annotation",
+    "em:Annotation",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_Name_attestation_Oppeln",
+  "annal:type": "em:Name_attestation_annotation",
+  "annal:type_id": "Name_attestation_annotation",
+  "dcterms:created": "2018-10-08",
+  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "em:competence": "",
+  "em:source": "",
+  "em:when": "Time_period/Period_1477_1945",
+  "oa:hasBody": "Place_name/Opole_P_Name_Oppelln",
+  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:motivatedBy": "Annotation_motivation/NAME_ATTESTATION",
+  "rdfs:comment": "# Opole name attestation: Oppelln (ger)",
+  "rdfs:label": "Opole name attestation: Oppeln (ger)"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Time_period/Period_1608",
+  "@type": [
+    "em:Time_period",
+    "annal:EntityData"
+  ],
+  "annal:id": "Period_1608",
+  "annal:type": "em:Time_period",
+  "annal:type_id": "Time_period",
+  "annal:uri": "emp:Period_1608",
+  "em:timespan": "Time_span/Timespan_1608",
+  "rdfs:comment": "# Period 1608",
+  "rdfs:label": "Period 1608"
+}

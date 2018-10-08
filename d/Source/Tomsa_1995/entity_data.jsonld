@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/Tomsa_1995",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Tomsa_1995",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "",
+  "rdfs:comment": "Tomsa, Jan: Po\u010d\u00ect\u00e1n\u00ec \u010dasu (Z\u00e1klady teorie kalend\u00e1\u0159e). Praha 1995",
+  "rdfs:label": "Tomsa, Jan, 1995"
+}

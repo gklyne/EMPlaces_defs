@@ -14,8 +14,8 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
+  "annal:type_list": "_list/Calendar",
+  "annal:type_view": "_view/Calendar",
   "annal:uri": "em:Calendar",
   "rdfs:comment": "# Calendar\r\n\r\nA resource that denotes a calendar system that was (or may have been) used in a particular place in a particular period.",
   "rdfs:label": "Calendar"

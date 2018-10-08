@@ -1,0 +1,37 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Name_attestation_annotation/Opole_P_Name_attestation",
+  "@type": [
+    "em:Name_attestation_annotation",
+    "oa:Annotation",
+    "em:Annotation",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_Name_attestation",
+  "annal:type": "em:Name_attestation_annotation",
+  "annal:type_id": "Name_attestation_annotation",
+  "dcterms:created": "2018-10-08",
+  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "em:competence": "Competence_value/DEFINITIVE",
+  "em:source": [
+    {
+      "@id": "Source/Heinrich_Adamy_Breslau"
+    }
+  ],
+  "em:source__2": [
+    {
+      "@id": "Source/Heinrich_Adamy_Breslau"
+    }
+  ],
+  "em:when": "Time_period/Period_1146_current",
+  "oa:hasBody": "Place_name/Opole_P_Name_Opole",
+  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:motivatedBy": "Annotation_motivation/NAME_ATTESTATION",
+  "rdfs:comment": "Name attestation: Opole",
+  "rdfs:label": "Opole name attestation (pol)"
+}

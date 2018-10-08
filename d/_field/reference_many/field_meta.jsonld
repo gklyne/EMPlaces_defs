@@ -1,0 +1,39 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/reference_many",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [
+    {
+      "annal:field_id": "_field/reference",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": "@id"
+    }
+  ],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Group_Set_Row",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "",
+  "annal:id": "reference_many",
+  "annal:placeholder": "(Zero, one or more Reference fields)",
+  "annal:property_uri": "em:reference",
+  "annal:repeat_label_add": "Add Reference",
+  "annal:repeat_label_delete": "Remove Reference",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# References\r\n\r\nZero, one or more instances of [Reference]($BASE:_field/reference).",
+  "rdfs:label": "References"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Calendar",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Calendar",
+  "annal:default_view": "_view/Calendar",
+  "annal:display_type": "List",
+  "annal:id": "Calendar",
+  "annal:list_entity_selector": "'em:Calendar' in [@type]",
+  "annal:list_entity_type": "em:Calendar",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Calendar list\n\nList entities of type [Calendar]($BASE:_type/Calendar).",
+  "rdfs:label": "Calendar list"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Time_span/Timespan_1477_1945",
+  "@type": [
+    "em:Time_span",
+    "annal:EntityData"
+  ],
+  "annal:id": "Timespan_1477_1945",
+  "annal:type": "em:Time_span",
+  "annal:type_id": "Time_span",
+  "em:earliestEnd": "1945",
+  "em:latestStart": "1477",
+  "rdfs:comment": "# Timespan 1477..1945",
+  "rdfs:label": "Timespan 1477..1945"
+}

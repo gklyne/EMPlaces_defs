@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/Heinrich_Adamy_Breslau",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Heinrich_Adamy_Breslau",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "",
+  "rdfs:comment": "# Heinrich Adamy, Breslau\r\n\r\nHeinrich Adamy: Die Schlesischen Ortsnamen ihre entstechung und bedeutung. Breslau.",
+  "rdfs:label": "Heinrich Adamy, Breslau"
+}

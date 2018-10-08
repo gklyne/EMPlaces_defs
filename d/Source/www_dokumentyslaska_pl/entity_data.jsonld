@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/www_dokumentyslaska_pl",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "www_dokumentyslaska_pl",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "http://www.dokumentyslaska.pl",
+  "rdfs:comment": "# www.dokumentyslaska.pl",
+  "rdfs:label": "www.dokumentyslaska.pl"
+}

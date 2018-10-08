@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/emp",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "emp",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://emplaces.namespace.example.org/timeperiod/",
+  "rdfs:comment": "# EMPlaces time periods\r\n\r\nNamespaces for time span identifiers in EMPlaces.\r\n\r\nThis is not used exclusively for all timespans, just those that are not defined elsewhere\r\n",
+  "rdfs:label": "EMPlaces time periods",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://github.com/culturesofknowledge/emplaces/blob/master/models/20180802-opole-example-multisourced.ttl"
+    }
+  ]
+}

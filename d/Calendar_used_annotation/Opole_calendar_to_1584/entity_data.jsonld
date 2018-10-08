@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Calendar_used_annotation/Opole_calendar_to_1584",
+  "@type": [
+    "em:Calendar_used_annotation",
+    "oa:Annotation",
+    "em:Annotation",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_calendar_to_1584",
+  "annal:type": "em:Calendar_used_annotation",
+  "annal:type_id": "Calendar_used_annotation",
+  "dcterms:created": "2018-10-08",
+  "dcterms:creator": "Arno Bosse / GK",
+  "em:competence": "Competence_value/ASSUMED",
+  "em:source": [
+    {
+      "@id": "Source/1584_Papal_Bull"
+    }
+  ],
+  "em:when": "Time_period/Period_to_1584",
+  "oa:hasBody": "Calendar/Julian_old",
+  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:motivatedBy": "Annotation_motivation/CALENDAR_IN_USE",
+  "rdfs:comment": "Opole calendar used to 1584",
+  "rdfs:label": "Opole calendar used to 1584"
+}

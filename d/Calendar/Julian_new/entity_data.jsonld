@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Calendar/Julian_new",
+  "@type": [
+    "em:Calendar",
+    "annal:EntityData"
+  ],
+  "annal:id": "Julian_new",
+  "annal:type": "em:Calendar",
+  "annal:type_id": "Calendar",
+  "em:link": "emc:Julian_new",
+  "rdfs:comment": "# Julian calendar (New)\r\n\r\n\"New style\" Julian calendar, year begins on 1 Jan.",
+  "rdfs:label": "Julian calendar (New)"
+}

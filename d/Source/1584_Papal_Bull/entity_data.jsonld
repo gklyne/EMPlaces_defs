@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/1584_Papal_Bull",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "1584_Papal_Bull",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "",
+  "rdfs:comment": "# 1584 Papal Bull\r\n\r\nAssumed from adoption of Papal Bull (Gregorian) in 1584.",
+  "rdfs:label": "1584 Papal Bull"
+}

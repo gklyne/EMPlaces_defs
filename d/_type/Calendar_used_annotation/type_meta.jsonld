@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Calendar_used_annotation",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Calendar_used_annotation",
+  "annal:supertype_uri": [
+    {
+      "@id": "em:Annotation"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Calendar_used_annotation",
+  "annal:type_view": "_view/Calendar_used_annotation",
+  "annal:uri": "em:Calendar_used_annotation",
+  "rdfs:comment": "# Calendar-used annotation",
+  "rdfs:label": "Calendar-used annotation"
+}

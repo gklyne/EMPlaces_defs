@@ -18,7 +18,17 @@
   "annal:uri": "",
   "dcterms:created": "2018-09-20",
   "dcterms:creator": "GK",
-  "em:source": "Authority/GeoNames_source",
+  "em:competence": "",
+  "em:source": [
+    {
+      "@id": "Authority/GeoNames_source"
+    }
+  ],
+  "em:source__2": [
+    {
+      "@id": "Authority/GeoNames_source"
+    }
+  ],
   "em:when": "Time_period/Current",
   "oa:hasBody": "Map_resource/Opole_map_current",
   "oa:hasTarget": "Place/Opole_P_Geonames",

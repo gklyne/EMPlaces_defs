@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Place_name",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Place_name",
+  "annal:default_view": "_view/Place_name",
+  "annal:display_type": "List",
+  "annal:id": "Place_name",
+  "annal:list_entity_selector": "'em:Place_name' in [@type]",
+  "annal:list_entity_type": "em:Place_name",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Place name list\n\nList entities of type [Place name]($BASE:_type/Place_name).",
+  "rdfs:label": "Place name list"
+}

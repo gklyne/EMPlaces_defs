@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_name/Opole_P_Name_Oppeln",
+  "@type": [
+    "em:Place_name",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_Name_Oppeln",
+  "annal:type": "em:Place_name",
+  "annal:type_id": "Place_name",
+  "em:name_language": "Language_value/de",
+  "em:name_string": "Oppeln",
+  "rdfs:comment": "# Opole place name: Oppeln (ger)",
+  "rdfs:label": "Opole place name: Oppeln (ger)"
+}
