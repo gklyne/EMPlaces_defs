@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Language_value/th",
+  "@type": [
+    "em:Language_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "th",
+  "annal:type": "em:Language_value",
+  "annal:type_id": "Language_value",
+  "annal:uri": "eml:th",
+  "em:tag": "th",
+  "em:tag_639_1": "th",
+  "em:tag_639_2": "tha",
+  "rdfs:comment": "# Thai",
+  "rdfs:label": "Thai"
+}

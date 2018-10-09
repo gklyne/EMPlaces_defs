@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/tag_639_1",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "en",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "tag_639_1",
+  "annal:placeholder": "(2-character ISO 639-1 language tag)",
+  "annal:property_uri": "em:tag_639_1",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "A 2-character ISO 639-1 tag used to identify a language.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# ISO 639-1 2-character language tag\r\n\r\nAn ISO-639-1 2-character tag used to identify a language.\r\n",
+  "rdfs:label": "2-char language tag"
+}

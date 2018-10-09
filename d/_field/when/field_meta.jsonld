@@ -20,14 +20,14 @@
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "em:Time_period",
   "annal:id": "when",
-  "annal:placeholder": "(Time period for setting)",
+  "annal:placeholder": "(Time period)",
   "annal:property_uri": "em:when",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],
-  "annal:tooltip": "Indicates a time period within which a setting existed.",
+  "annal:tooltip": "Indicates a time period within for a place or setting.",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# When\r\n\r\nIndicates a time period within which a setting existed.",
+  "rdfs:comment": "# When\r\n\r\nIndicates a time period for a place or setting.",
   "rdfs:label": "When"
 }

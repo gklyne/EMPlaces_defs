@@ -17,6 +17,6 @@
   "annal:type_list": "_list/Language_value",
   "annal:type_view": "_view/Language_value",
   "annal:uri": "em:Language_value",
-  "rdfs:comment": "# Language\r\n\r\nA resource that denotes a language (e.g. the language in which a particular name form might be used).\r\n\r\n@@TODO: consider just using [lexvo](http://www.lexvo.org/linkeddata/details.html)",
+  "rdfs:comment": "# Language\r\n\r\nA resource that denotes a language (e.g. the language in which a particular name form might be used).\r\n\r\n@@TODO: consider just using [lexvo](http://www.lexvo.org/linkeddata/details.html)\r\n\r\nSee [Wikipedia language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) page for a list of ISO 639 2- and 3-character language tags.",
   "rdfs:label": "Language"
 }

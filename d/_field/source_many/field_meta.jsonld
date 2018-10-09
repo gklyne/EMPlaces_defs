@@ -35,5 +35,5 @@
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
   "rdfs:comment": "# Sources of claim\r\n\r\nZero, one or more instances of [Source of claim]($BASE:_field/source).",
-  "rdfs:label": "Sources of claim"
+  "rdfs:label": "Sources"
 }

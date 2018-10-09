@@ -28,6 +28,6 @@
   "annal:tooltip": "Reference to description of a source of information in current entity.",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Source of claim\r\n\r\nReference to description of a source of information in current entity.",
-  "rdfs:label": "Source of claim"
+  "rdfs:comment": "# Source of information\r\n\r\nReference to description of a source of information in current entity.",
+  "rdfs:label": "Source"
 }

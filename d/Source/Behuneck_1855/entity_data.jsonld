@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/Behuneck_1855",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Behuneck_1855",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "",
+  "rdfs:comment": "# Behuneck, Adolf 1855\r\n\r\nBehuneck, Adolf 1855: Alphabetisch-tabellarisches Verzeichniss s\u00e4mmtlicher St\u00e4dte, Flecken, D\u00f6rfer und anderer Orte Schlesiens sowie s\u00e4mmtlicher St\u00e4dte und derjenigen Ortschaften Preussens, in denen Gerichtssitze sind, oder Gerichtstage abgehalten werden, Steinau.",
+  "rdfs:label": " Behuneck, Adolf 1855"
+}

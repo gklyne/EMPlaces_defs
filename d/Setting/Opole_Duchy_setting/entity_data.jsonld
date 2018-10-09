@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Setting/Opole_Duchy_setting",
+  "@type": [
+    "em:Setting",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_Duchy_setting",
+  "annal:type": "em:Setting",
+  "annal:type_id": "Setting",
+  "em:location": "",
+  "em:source": "",
+  "em:when": "Time_period/Period_1281_1809",
+  "rdfs:comment": "Duchy of Opole",
+  "rdfs:label": "Duchy of Opole"
+}

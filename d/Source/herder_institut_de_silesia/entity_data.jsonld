@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/herder_institut_de_silesia",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "herder_institut_de_silesia",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "https://www.herder-institut.de/en/research-projects/current-projects/town-atlas-silesia.html",
+  "rdfs:comment": "# www.herder-institut.de: Silesia\r\n\r\nhttps://www.herder-institut.de/en/research-projects/current-projects/town-atlas-silesia.html",
+  "rdfs:label": "www.herder-institut.de: Silesia"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Language_value/ja",
+  "@type": [
+    "em:Language_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "ja",
+  "annal:type": "em:Language_value",
+  "annal:type_id": "Language_value",
+  "annal:uri": "eml:ja",
+  "em:tag": "ja",
+  "em:tag_639_1": "ja",
+  "em:tag_639_2": "jpn",
+  "rdfs:comment": "# Japanese",
+  "rdfs:label": "Japanese"
+}

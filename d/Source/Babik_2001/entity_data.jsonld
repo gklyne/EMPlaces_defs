@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/Babik_2001",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Babik_2001",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "",
+  "rdfs:comment": "# Babik, Zbigniew 2001\r\n\r\nBabik, Zbigniew 2001: Najstarsza warstwa nazewnicza na ziemiach polskich w granicach wczesno\u015bredniowiecznej S\u0142owia\u0144szczyzny, Krak\u00f3w.\r\n",
+  "rdfs:label": "Babik, Zbigniew 2001"
+}

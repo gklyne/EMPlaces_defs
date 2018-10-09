@@ -1,0 +1,34 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_sourced/Opole_Duchy_EMPlaces",
+  "@type": [
+    "em:Place_subtype",
+    "em:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_Duchy_EMPlaces",
+  "annal:type": "em:Place_subtype",
+  "annal:type_id": "Place_sourced",
+  "em:alternateName": [],
+  "em:displayName": [],
+  "em:editorialNote": "",
+  "em:hasCalendarUsedAnnotation": [],
+  "em:hasMapResourceAnnotation": [],
+  "em:hasNameAttestationAnnotation": [],
+  "em:hasRelation": [],
+  "em:placeCategory": "Place_category/gn_A",
+  "em:placeType": "Place_type/gn_A_ADM3H",
+  "em:preferredName": "Duchy of Opole",
+  "em:reference": [],
+  "em:relatedResource": [],
+  "em:when": "Time_period/Period_1281_1809",
+  "em:where": [],
+  "rdfs:comment": "# Duchy of Opole (EMPlaces)",
+  "rdfs:label": "Duchy of Opole (EMPlaces)",
+  "rdfs:seeAlso": []
+}

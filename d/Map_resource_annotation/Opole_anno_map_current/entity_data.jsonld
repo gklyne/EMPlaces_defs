@@ -31,7 +31,7 @@
   ],
   "em:when": "Time_period/Current",
   "oa:hasBody": "Map_resource/Opole_map_current",
-  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:hasTarget": "Place_sourced/Opole_P_EMPlaces",
   "oa:motivatedBy": "Annotation_motivation/MAP_RESOURCE",
   "rdfs:comment": "# Opole current map annotation",
   "rdfs:label": "Opole current map annotation"

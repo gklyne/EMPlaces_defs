@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/ome_lexikon_uni_oldenburg_de",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "ome_lexikon_uni_oldenburg_de",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "http://ome-lexikon.uni-oldenburg.de",
+  "rdfs:comment": "# ome-lexikon.uni-oldenburg.de\r\n\r\nhttp://ome-lexikon.uni-oldenburg.de",
+  "rdfs:label": "ome-lexikon.uni-oldenburg.de"
+}

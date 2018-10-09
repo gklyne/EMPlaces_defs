@@ -28,6 +28,6 @@
   "annal:tooltip": "A short tag used to identify a language.  Currently, using ISO 2-letter language tags.",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Language tag\r\n\r\nA short tag used to identify a language.  Currently, using ISO 2-letter language tags.\r\n\r\n@@TODO: clarify alignment with, e.g., RDF literal language tags\r\n",
-  "rdfs:label": "Language tag"
+  "rdfs:comment": "# Language tag @@deprecated\r\n\r\nThis is deprecated.  Use tag_639_1 or tag_639_2 instead.\r\n\r\nA short tag used to identify a language.  Currently, using ISO 2-letter language tags.\r\n\r\n@@TODO: clarify alignment with, e.g., RDF literal language tags\r\n",
+  "rdfs:label": "Language tag @@deprecated"
 }

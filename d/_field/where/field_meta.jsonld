@@ -29,5 +29,5 @@
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
   "rdfs:comment": "# Where & when\r\n\r\nIndicates a setting (location and time period) for a place.\r\n\r\nMultiple settings may be associated with a place, to capture possible location changes through time.\r\n",
-  "rdfs:label": "Where & when"
+  "rdfs:label": "Setting: where/when"
 }

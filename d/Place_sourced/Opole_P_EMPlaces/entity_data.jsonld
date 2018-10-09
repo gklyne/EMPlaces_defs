@@ -1,0 +1,123 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_sourced/Opole_P_EMPlaces",
+  "@type": [
+    "em:Place_subtype",
+    "em:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_EMPlaces",
+  "annal:type": "em:Place_subtype",
+  "annal:type_id": "Place_sourced",
+  "em:alternateName": [],
+  "em:displayName": [],
+  "em:editorialNote": "Getty Thesaurus of Geographic Names (05/03/2018):\r\n\r\nLocated on Oder River; passed to Bohemia in 1327, to Habsburgs in 1742 & returned to Poland in 1945; is important port between Wroc\u0142aw & Upper Silesia; economy depends on cement factories & iron foundries; noted for many historic buildings.\r\n",
+  "em:hasAnnotation": [
+    {
+      "@id": "Contextualized_annotation/Opole_anno_map_current"
+    }
+  ],
+  "em:hasCalendarUsedAnnotation": [
+    {
+      "@id": "Calendar_used_annotation/Opole_calendar_to_1584"
+    },
+    {
+      "@id": "Calendar_used_annotation/Opole_calendar_from_1584"
+    }
+  ],
+  "em:hasMapResourceAnnotation": [
+    {
+      "@id": "Map_resource_annotation/Opole_anno_map_current"
+    },
+    {
+      "@id": "Map_resource_annotation/Silesia_1561"
+    },
+    {
+      "@id": "Map_resource_annotation/Silesia_1608"
+    }
+  ],
+  "em:hasNameAttestationAnnotation": [
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation"
+    },
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Opol"
+    },
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Opul"
+    },
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Oppoln"
+    },
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Oppelln"
+    },
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Oppul"
+    },
+    {
+      "@id": "Name_attestation_annotation/Opole_P_Name_attestation_Oppeln"
+    }
+  ],
+  "em:hasRelation": [
+    {
+      "@id": "Qualified_relation/Opole_rel_Duchy"
+    },
+    {
+      "@id": ""
+    }
+  ],
+  "em:placeCategory": "Place_category/gn_P",
+  "em:placeType": "Place_type/gn_P_PPL",
+  "em:preferredName": "Opole",
+  "em:reference": [
+    {
+      "@id": "bibo_Book/Opole_Emmerling_Zajaczkowska"
+    }
+  ],
+  "em:relatedResource": [
+    {
+      "@id": "Source/dolny_slask_org_pl"
+    },
+    {
+      "@id": "Source/www_dokumentyslaska_pl"
+    },
+    {
+      "@id": "Source/herder_institut_de_silesia"
+    },
+    {
+      "@id": "Source/ome_lexikon_uni_oldenburg_de"
+    },
+    {
+      "@id": "Source/Babik_2001"
+    },
+    {
+      "@id": "Source/Behuneck_1855"
+    }
+  ],
+  "em:source": "Source/EMPlaces",
+  "em:when": "Time_period/Current",
+  "em:where": [
+    {
+      "@id": "Setting/Opole_current"
+    }
+  ],
+  "rdfs:comment": "Opole is a city located in southern Poland on the Oder River and the historical capital of Upper Silesia. With a population of approximately 127,792 (January 2017), it is currently the capital of the Opole Voivodeship and, also the seat of Opole County. With its long history dating back to the 8th century, Opole is one of the oldest cities in Poland. (From [Wikipedia](https://en.wikipedia.org/wiki/Opole).)",
+  "rdfs:label": "City of Opole (EMPlaces)",
+  "rdfs:seeAlso": [
+    {
+      "@id": "http://en.wikipedia.org/wiki/Opole"
+    },
+    {
+      "@id": "http://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%BE%D0%BB%D0%B5"
+    },
+    {
+      "@id": "http://dbpedia.org/resource/Opole"
+    }
+  ]
+}

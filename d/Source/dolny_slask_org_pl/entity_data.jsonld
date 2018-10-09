@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/dolny_slask_org_pl",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "dolny_slask_org_pl",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "em:link": "https://dolny-slask.org.pl",
+  "rdfs:comment": "dolny-slask.org.pl",
+  "rdfs:label": "dolny-slask.org.pl"
+}

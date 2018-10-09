@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Language_value/ko",
+  "@type": [
+    "em:Language_value",
+    "annal:EntityData"
+  ],
+  "annal:id": "ko",
+  "annal:type": "em:Language_value",
+  "annal:type_id": "Language_value",
+  "annal:uri": "eml:ko",
+  "em:tag": "ko",
+  "em:tag_639_1": "ko",
+  "em:tag_639_2": "kor",
+  "rdfs:comment": "# Korean",
+  "rdfs:label": "Korean"
+}

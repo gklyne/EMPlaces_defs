@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Place_sourced",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Place_sourced",
+  "annal:default_view": "_view/Place_sourced",
+  "annal:display_type": "List",
+  "annal:id": "Place_sourced",
+  "annal:list_entity_selector": "'em:Place_subtype' in [@type]",
+  "annal:list_entity_type": "em:Place_subtype",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Place data from single source list\n\nList entities of type [Place data from single source]($BASE:_type/Place_sourced).",
+  "rdfs:label": "Place data from single source list"
+}

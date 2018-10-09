@@ -21,13 +21,21 @@
       "annal:field_placement": "small:0,3"
     },
     {
+      "annal:field_id": "_field/tag_639_1",
+      "annal:field_placement": "small:3,3"
+    },
+    {
+      "annal:field_id": "_field/tag_639_2",
+      "annal:field_placement": "small:6,3"
+    },
+    {
       "annal:field_id": "_field/Entity_label",
-      "annal:field_placement": "small:3,9"
+      "annal:field_placement": "small:9,3"
     }
   ],
   "annal:type": "annal:List",
   "annal:type_id": "_list",
   "annal:uri": "annal:display/Default_list",
-  "rdfs:comment": "# Language list\n\nList entities of type [Language]($BASE:_type/Language_value).",
+  "rdfs:comment": "# Language list\r\n\r\nList entities of type [Language]($BASE:_type/Language_value).",
   "rdfs:label": "Language list"
 }

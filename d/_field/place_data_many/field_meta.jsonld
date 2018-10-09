@@ -1,0 +1,39 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/place_data_many",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [
+    {
+      "annal:field_id": "_field/place_data",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": "@id"
+    }
+  ],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Group_Set_Row",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "",
+  "annal:id": "place_data_many",
+  "annal:placeholder": "(Zero, one or more Place data sourced fields)",
+  "annal:property_uri": "em:place_data",
+  "annal:repeat_label_add": "Add place data",
+  "annal:repeat_label_delete": "Remove place data",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Place data from sources\r\n\r\nZero, one or more instances of [Place data sourced]($BASE:_field/place_data).",
+  "rdfs:label": "Place data from sources"
+}
