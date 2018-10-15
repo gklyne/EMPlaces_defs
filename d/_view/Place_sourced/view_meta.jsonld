@@ -92,12 +92,17 @@
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/reference_many",
+      "annal:field_id": "_field/alternateAuthority_many",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
     },
     {
       "annal:field_id": "_field/relatedResource_many",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/reference_many",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
     },

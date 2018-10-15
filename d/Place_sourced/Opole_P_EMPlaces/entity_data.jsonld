@@ -14,6 +14,14 @@
   "annal:id": "Opole_P_EMPlaces",
   "annal:type": "em:Place_subtype",
   "annal:type_id": "Place_sourced",
+  "em:alternateAuthority": [
+    {
+      "@id": "Authority/GeoNames_Opole_source"
+    },
+    {
+      "@id": "Authority/TGN_Opole_source"
+    }
+  ],
   "em:alternateName": [],
   "em:displayName": [],
   "em:editorialNote": "Getty Thesaurus of Geographic Names (05/03/2018):\r\n\r\nLocated on Oder River; passed to Bohemia in 1327, to Habsburgs in 1742 & returned to Poland in 1945; is important port between Wroc\u0142aw & Upper Silesia; economy depends on cement factories & iron foundries; noted for many historic buildings.\r\n",

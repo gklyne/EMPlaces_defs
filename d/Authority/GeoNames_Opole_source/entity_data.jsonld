@@ -5,16 +5,17 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "Authority/GeoNames_source",
+  "@id": "Authority/GeoNames_Opole_source",
   "@type": [
     "em:Authority",
     "em:Source",
     "annal:EntityData"
   ],
-  "annal:id": "GeoNames_source",
+  "annal:id": "GeoNames_Opole_source",
   "annal:type": "em:Authority",
   "annal:type_id": "Authority",
   "em:link": "http://sws.geonames.org/3090048/about.rdf",
-  "rdfs:comment": "GeoNames data",
-  "rdfs:label": "GeoNames data"
+  "em:short_label": "GeoNames",
+  "rdfs:comment": "# GeoNames data for Opole\r\n\r\nView [GeoNames page](http://www.geonames.org/3090048/opole.html).",
+  "rdfs:label": "GeoNames data for Opole"
 }
