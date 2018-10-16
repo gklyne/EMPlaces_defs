@@ -20,6 +20,9 @@
     },
     {
       "@id": "Authority/TGN_Opole_source"
+    },
+    {
+      "@id": "Authority/Wikidata_Opole_source"
     }
   ],
   "em:alternateName": [],
