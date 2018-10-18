@@ -15,7 +15,7 @@
     {
       "annal:field_id": "_field/displayName",
       "annal:field_placement": "small:0,12;medium:0,6",
-      "annal:property_uri": "@id"
+      "annal:property_uri": "@value"
     }
   ],
   "annal:field_placement": "small:0,12;medium:0,6",

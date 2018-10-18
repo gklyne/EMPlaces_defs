@@ -12,7 +12,7 @@
   "annal:id": "eml",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
-  "annal:uri": "http://emplaces.namespace.example.org/language/",
+  "annal:uri": "http://id.emplaces.info/language/",
   "rdfs:comment": "# EMPlaces languages\r\n\r\nNamespaces for language identifiers in EMPlaces.\r\n\r\nThis is not used exclusively for all languages, just those for which alternative, more common identifiers have not been adopted.  Possibly, this will be superseded by use of `Lexvo`.",
   "rdfs:label": "EMPlaces languages",
   "rdfs:seeAlso": [

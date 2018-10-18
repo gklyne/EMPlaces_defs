@@ -15,62 +15,62 @@
   "annal:type_id": "Place",
   "em:alternateName": [
     {
-      "@language": "",
-      "@value": "Opole"
+      "em:language": "",
+      "em:name":   "Opole"
     },
     {
-      "@language": "",
-      "@value": "Oppein"
+      "em:language": "",
+      "em:name":   "Oppein"
     },
     {
-      "@language": "",
-      "@value": "Oppeln"
+      "em:language": "",
+      "em:name":   "Oppeln"
     },
     {
-      "@language": "Language_value/ko",
-      "@value": "\uc624\ud3f4\ub808"
+      "em:language": "Language_value/ko",
+      "em:name":   "\uc624\ud3f4\ub808"
     },
     {
-      "@language": "Language_value/ja",
-      "@value": "\u30aa\u30dd\u30fc\u30ec"
+      "em:language": "Language_value/ja",
+      "em:name":   "\u30aa\u30dd\u30fc\u30ec"
     },
     {
-      "@language": "Language_value/th",
-      "@value": "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25"
+      "em:language": "Language_value/th",
+      "em:name":   "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25"
     },
     {
-      "@language": "Language_value/da",
-      "@value": "Opole"
+      "em:language": "Language_value/da",
+      "em:name":   "Opole"
     },
     {
-      "@language": "Language_value/en",
-      "@value": "Opole"
+      "em:language": "Language_value/en",
+      "em:name":   "Opole"
     }
   ],
   "em:displayName": [
     {
-      "@id": "Opole"
+      "@value": "Opole"
     },
     {
-      "@id": "Oppein"
+      "@value": "Oppein"
     },
     {
-      "@id": "Oppeln"
+      "@value": "Oppeln"
     },
     {
-      "@id": "\u00d2p\u00f2le"
+      "@value": "\u00d2p\u00f2le"
     },
     {
-      "@id": "Opol\u0117"
+      "@value": "Opol\u0117"
     },
     {
-      "@id": "Opol\u00ed"
+      "@value": "Opol\u00ed"
     },
     {
-      "@id": "Uopole"
+      "@value": "Uopole"
     },
     {
-      "@id": "\u041e\u043f\u043e\u043b\u0435"
+      "@value": "\u041e\u043f\u043e\u043b\u0435"
     }
   ],
   "em:editorialNote": "",

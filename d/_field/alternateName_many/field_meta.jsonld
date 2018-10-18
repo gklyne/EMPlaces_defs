@@ -15,12 +15,12 @@
     {
       "annal:field_id": "_field/name_string",
       "annal:field_placement": "small:0,6",
-      "annal:property_uri": "@value"
+      "annal:property_uri": "em:name"
     },
     {
       "annal:field_id": "_field/name_language",
       "annal:field_placement": "small:6,3",
-      "annal:property_uri": "@language"
+      "annal:property_uri": "em:language"
     },
     {
       "annal:field_id": "_field/Filler",

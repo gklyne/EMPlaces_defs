@@ -12,7 +12,7 @@
   "annal:id": "emc",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
-  "annal:uri": "http://emplaces.namespace.example.org/calendar/",
+  "annal:uri": "http://id.emplaces.info/calendar/",
   "rdfs:comment": "# EMPlaces calendars\r\n\r\nNamespaces for calendar identifiers in EMPlaces.\r\n\r\nThis is not used exclusively for all calendars, just those for which alternative, more common identifiers have not been adopted.",
   "rdfs:label": "EMPlaces calendars",
   "rdfs:seeAlso": [

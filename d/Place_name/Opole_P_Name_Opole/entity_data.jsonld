@@ -13,8 +13,8 @@
   "annal:id": "Opole_P_Name_Opole",
   "annal:type": "em:Place_name",
   "annal:type_id": "Place_name",
-  "em:name_language": "Language_value/pl",
-  "em:name_string": "Opole",
+  "em:language": "Language_value/pl",
+  "em:name": "Opole",
   "rdfs:comment": "# Opole place name (pol)\r\n\r\nPolish\r\n",
   "rdfs:label": "Opole place name (pol)"
 }

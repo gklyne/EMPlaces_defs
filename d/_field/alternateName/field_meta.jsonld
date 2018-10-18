@@ -20,7 +20,7 @@
     {
       "annal:field_id": "_field/name_language",
       "annal:field_placement": "small:9,3",
-      "annal:property_uri": "@language"
+      "annal:property_uri": "em:language"
     }
   ],
   "annal:field_placement": "small:0,12",

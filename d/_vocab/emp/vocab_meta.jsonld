@@ -12,7 +12,7 @@
   "annal:id": "emp",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
-  "annal:uri": "http://emplaces.namespace.example.org/timeperiod/",
+  "annal:uri": "http://id.emplaces.info/timeperiod/",
   "rdfs:comment": "# EMPlaces time periods\r\n\r\nNamespaces for time span identifiers in EMPlaces.\r\n\r\nThis is not used exclusively for all timespans, just those that are not defined elsewhere\r\n",
   "rdfs:label": "EMPlaces time periods",
   "rdfs:seeAlso": [

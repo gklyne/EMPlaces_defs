@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/place",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "place",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://id.emplaces.info/place/",
+  "rdfs:comment": "# Place data\r\n\r\nNamespace used for identifies that denote places.",
+  "rdfs:label": "Place data",
+  "rdfs:seeAlso": []
+}

@@ -12,7 +12,7 @@
   "annal:id": "ems",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
-  "annal:uri": "http://emplaces.namespace.example.org/source/",
+  "annal:uri": "http://id.emplaces.info/source/",
   "rdfs:comment": "# EMPlaces information sources\r\n\r\nNamespaces for information source identifiers in EMPlaces.\r\n\r\nThis is not used exclusively for all information sources, just those for which alternative, more common identifiers have not been adopted.",
   "rdfs:label": "EMPlaces information sources",
   "rdfs:seeAlso": [

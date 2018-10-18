@@ -21,7 +21,7 @@
   "annal:field_value_type": "annal:Text",
   "annal:id": "name_string",
   "annal:placeholder": "(Name string)",
-  "annal:property_uri": "em:name_string",
+  "annal:property_uri": "em:name",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],

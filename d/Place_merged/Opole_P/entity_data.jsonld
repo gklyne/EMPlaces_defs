@@ -14,16 +14,7 @@
   "annal:id": "Opole_P",
   "annal:type": "em:Place_merged",
   "annal:type_id": "Place_merged",
-  "em:alternateName": [],
-  "em:canonicalURI": "ex:Opole_P",
-  "em:displayName": [],
-  "em:editorialNote": "",
-  "em:hasCalendarUsedAnnotation": [],
-  "em:hasMapResourceAnnotation": [],
-  "em:hasNameAttestationAnnotation": [],
-  "em:hasRelation": [],
-  "em:placeCategory": "Place_category/gn_P",
-  "em:placeType": "Place_type/gn_P_PPL",
+  "em:canonicalURI": "place:Opole_P",
   "em:place_data": [
     {
       "@id": "Place_sourced/Opole_P_GeoNames"
@@ -32,12 +23,6 @@
       "@id": "Place_sourced/Opole_P_EMPlaces"
     }
   ],
-  "em:preferredName": "",
-  "em:reference": [],
-  "em:relatedResource": [],
-  "em:when": "",
-  "em:where": [],
   "rdfs:comment": "# City of Opole\r\n\r\nAuthority data from GeoNames, and additional provided by EMPlaces project.",
-  "rdfs:label": "City of Opole",
-  "rdfs:seeAlso": []
+  "rdfs:label": "City of Opole"
 }
