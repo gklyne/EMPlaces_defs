@@ -33,7 +33,7 @@
     },
     {
       "annal:field_id": "_field/short_label",
-      "annal:field_placement": "",
+      "annal:field_placement": "small:0,12;medium:0,4",
       "annal:property_uri": ""
     },
     {
@@ -42,7 +42,7 @@
       "annal:property_uri": ""
     },
     {
-      "annal:field_id": "_field/link",
+      "annal:field_id": "_field/Link",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
     }

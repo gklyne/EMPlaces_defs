@@ -17,36 +17,36 @@
   "em:alternateAuthority": [],
   "em:alternateName": [
     {
-      "em:name": "Opole",
-      "em:language": ""
+      "em:language": "",
+      "em:name": "Opole"
     },
     {
-      "em:name": "Oppein",
-      "em:language": ""
+      "em:language": "",
+      "em:name": "Oppein"
     },
     {
-      "em:name": "Oppeln",
-      "em:language": ""
+      "em:language": "",
+      "em:name": "Oppeln"
     },
     {
-      "em:name": "\uc624\ud3f4\ub808",
-      "em:language": "Language_value/ko"
+      "em:language": "Language_value/ko",
+      "em:name": "\uc624\ud3f4\ub808"
     },
     {
-      "em:name": "\u30aa\u30dd\u30fc\u30ec",
-      "em:language": "Language_value/ja"
+      "em:language": "Language_value/ja",
+      "em:name": "\u30aa\u30dd\u30fc\u30ec"
     },
     {
-      "em:name": "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25",
-      "em:language": "Language_value/th"
+      "em:language": "Language_value/th",
+      "em:name": "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25"
     },
     {
-      "em:name": "Opole",
-      "em:language": "Language_value/da"
+      "em:language": "Language_value/da",
+      "em:name": "Opole"
     },
     {
-      "em:name": "Opole",
-      "em:language": "Language_value/en"
+      "em:language": "Language_value/en",
+      "em:name": "Opole"
     }
   ],
   "em:displayName": [
@@ -98,7 +98,7 @@
   "em:preferredName": "Opole",
   "em:reference": [],
   "em:relatedResource": [],
-  "em:source": "Authority/GeoNames_source",
+  "em:source": "Authority/GeoNames_Opole_source",
   "em:when": "Time_period/Current",
   "em:where": [
     {
