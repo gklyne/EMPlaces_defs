@@ -12,6 +12,7 @@
     "annal:EntityData"
   ],
   "annal:id": "GeoNames_Opole_source",
+  "annal:missing_field": "",
   "annal:type": "em:Authority",
   "annal:type_id": "Authority",
   "em:link": "http://sws.geonames.org/3090048/about.rdf",

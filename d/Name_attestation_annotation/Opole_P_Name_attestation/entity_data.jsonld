@@ -30,7 +30,7 @@
   ],
   "em:when": "Time_period/Period_1146_current",
   "oa:hasBody": "Place_name/Opole_P_Name_Opole",
-  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:hasTarget": "Place_sourced/Opole_P_EMPlaces",
   "oa:motivatedBy": "Annotation_motivation/NAME_ATTESTATION",
   "rdfs:comment": "Name attestation: Opole",
   "rdfs:label": "Opole name attestation (pol)"
