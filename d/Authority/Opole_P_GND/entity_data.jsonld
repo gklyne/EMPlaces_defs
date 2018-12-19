@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Authority/Opole_P_GND",
+  "@type": [
+    "em:Authority",
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_GND",
+  "annal:type": "em:Authority",
+  "annal:type_id": "Authority",
+  "annal:uri": "ems:Opole_P_GND",
+  "em:link": "http://d-nb.info/gnd/4075671-3",
+  "em:short_label": "GND",
+  "rdfs:comment": "Cit=y of Opole description in GND",
+  "rdfs:label": "City of Opole (GND)"
+}

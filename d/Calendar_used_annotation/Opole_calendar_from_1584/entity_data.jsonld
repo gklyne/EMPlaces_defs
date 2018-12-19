@@ -15,8 +15,9 @@
   "annal:id": "Opole_calendar_from_1584",
   "annal:type": "em:Calendar_used_annotation",
   "annal:type_id": "Calendar_used_annotation",
+  "annal:uri": "anno_cal:Opole_calendar_from_1584",
   "dcterms:created": "2018-10-08",
-  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "dcterms:creator": "foaf_Person/GK",
   "em:competence": "Competence_value/DEFINITIVE",
   "em:source": [
     {
@@ -28,8 +29,8 @@
   ],
   "em:when": "Time_period/Period_from_15840223",
   "oa:hasBody": "Calendar/Gregorian",
-  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:hasTarget": "Place_sourced/Opole_P_CofK",
   "oa:motivatedBy": "Annotation_motivation/CALENDAR_IN_USE",
-  "rdfs:comment": "# Opole calendar from 1584\r\n\r\nGregorian since 23/02/1584. The actual switch took place on 12.2.1584. The next day then became the 23.2.1584.",
+  "rdfs:comment": "# Opole calendar from 1584\r\n\r\nGregorian since 23/02/1584. The actual switch took place on 12.2.1584. The next day then became the 23.2.1584.\r\n\r\nData assembled by Arno Bosse.",
   "rdfs:label": "Opole calendar from 1584"
 }

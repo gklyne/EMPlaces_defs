@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Map_resource_annotation",
+  "annal:ns_prefix": "anno_map",
   "annal:supertype_uri": [
     {
       "@id": "em:Annotation"
@@ -21,6 +22,6 @@
   "annal:type_list": "_list/Map_resource_annotation",
   "annal:type_view": "_view/Map_resource_annotation",
   "annal:uri": "em:Map_resource_annotation",
-  "rdfs:comment": "# Map resource annotation\r\n\r\nA Web Annotation used to associate a map resourcve with a place.\r\n\r\n",
+  "rdfs:comment": "# Map resource annotation\r\n\r\nA Web Annotation used to associate a map resource with a place.\r\n\r\n",
   "rdfs:label": "Map resource annotation"
 }

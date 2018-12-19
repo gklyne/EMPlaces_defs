@@ -13,6 +13,7 @@
   "annal:id": "dolny_slask_org_pl",
   "annal:type": "em:Source",
   "annal:type_id": "Source",
+  "annal:uri": "ems:dolny_slask_org_pl",
   "em:link": "https://dolny-slask.org.pl",
   "rdfs:comment": "dolny-slask.org.pl",
   "rdfs:label": "dolny-slask.org.pl"

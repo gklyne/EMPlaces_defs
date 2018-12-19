@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Competence_value",
   "annal:default_view": "_view/Competence_value",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Competence_value",
   "annal:list_entity_selector": "'em:Competence_value' in [@type]",
   "annal:list_entity_type": "em:Competence_value",

@@ -13,6 +13,7 @@
   "annal:id": "Opole_location",
   "annal:type": "em:Location_value",
   "annal:type_id": "Location_value",
+  "annal:uri": "location:Opole_location",
   "rdfs:comment": "Location of City of Opole.",
   "rdfs:label": "50.67211\u00b0N, 17.92533\u00b0E (Opole)",
   "wgs84_pos:lat": "50.67211",

@@ -15,23 +15,17 @@
   "annal:id": "Opole_anno_map_current",
   "annal:type": "em:Map_resource_annotation",
   "annal:type_id": "Map_resource_annotation",
-  "annal:uri": "",
+  "annal:uri": "anno_map:Opole_anno_map_current",
   "dcterms:created": "2018-09-20",
-  "dcterms:creator": "GK",
-  "em:competence": "",
+  "dcterms:creator": "foaf_Person/GK",
   "em:source": [
     {
-      "@id": "Authority/GeoNames_source"
-    }
-  ],
-  "em:source__2": [
-    {
-      "@id": "Authority/GeoNames_source"
+      "@id": "Authority/GeoNames_Opole_source"
     }
   ],
   "em:when": "Time_period/Current",
   "oa:hasBody": "Map_resource/Opole_map_current",
-  "oa:hasTarget": "Place_sourced/Opole_P_EMPlaces",
+  "oa:hasTarget": "Place_sourced/Opole_P_CofK",
   "oa:motivatedBy": "Annotation_motivation/MAP_RESOURCE",
   "rdfs:comment": "# Opole current map annotation",
   "rdfs:label": "Opole current map annotation"

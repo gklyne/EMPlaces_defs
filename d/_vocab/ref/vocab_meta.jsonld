@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/ref",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "ref",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://id.emplaces.info/reference/",
+  "rdfs:comment": "# Bibliographic reference",
+  "rdfs:label": "Bibliographic reference",
+  "rdfs:seeAlso": []
+}

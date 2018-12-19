@@ -13,6 +13,7 @@
   "annal:id": "Timespan_1146_current",
   "annal:type": "em:Time_span",
   "annal:type_id": "Time_span",
+  "annal:uri": "emt:Timespan_1146_current",
   "em:earliestEnd": "2018",
   "em:latestStart": "1146",
   "rdfs:comment": "# Timespan 1146..current",

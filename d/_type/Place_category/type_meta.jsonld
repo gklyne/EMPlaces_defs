@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Place_category",
+  "annal:ns_prefix": "place_category",
   "annal:supertype_uri": [
     {
       "@id": "skos:Concept"

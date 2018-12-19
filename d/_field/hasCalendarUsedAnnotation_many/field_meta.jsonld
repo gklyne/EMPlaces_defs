@@ -30,7 +30,11 @@
   "annal:property_uri": "em:hasCalendarUsedAnnotation",
   "annal:repeat_label_add": "Add calendar used",
   "annal:repeat_label_delete": "Remove calendar used",
-  "annal:superproperty_uri": [],
+  "annal:superproperty_uri": [
+    {
+      "@id": "em:hasAnnotation"
+    }
+  ],
   "annal:tooltip": "",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",

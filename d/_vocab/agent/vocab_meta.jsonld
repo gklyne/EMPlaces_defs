@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/agent",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "agent",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://id.emplaces.info/agent/",
+  "rdfs:comment": "# Namespace for agents (organizations or people)\r\n",
+  "rdfs:label": "Agent",
+  "rdfs:seeAlso": []
+}

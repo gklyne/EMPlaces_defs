@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Place_sourced",
   "annal:default_view": "_view/Place_sourced",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Place_sourced",
   "annal:list_entity_selector": "'em:Place_subtype' in [@type]",
   "annal:list_entity_type": "em:Place_subtype",

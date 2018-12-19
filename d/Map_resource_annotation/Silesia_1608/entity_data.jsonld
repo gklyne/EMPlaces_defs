@@ -15,8 +15,9 @@
   "annal:id": "Silesia_1608",
   "annal:type": "em:Map_resource_annotation",
   "annal:type_id": "Map_resource_annotation",
+  "annal:uri": "anno_map:Silesia_1608",
   "dcterms:created": "2018-10-08",
-  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "dcterms:creator": "foaf_Person/GK",
   "em:source": [
     {
       "@id": "Source/David_Rumsey_map_collection"
@@ -24,7 +25,7 @@
   ],
   "em:when": "Time_period/Period_1608",
   "oa:hasBody": "Map_resource/Silesia_1608",
-  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:hasTarget": "Place_sourced/Opole_P_CofK",
   "oa:motivatedBy": "Annotation_motivation/MAP_RESOURCE",
   "rdfs:comment": "# Map of Silesia dated 1608",
   "rdfs:label": "Map of Silesia dated 1608"

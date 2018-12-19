@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "foaf_Person/Ryszard_Emmerling",
+  "@type": [
+    "foaf:Person",
+    "foaf:Agent",
+    "annal:EntityData"
+  ],
+  "annal:id": "Ryszard_Emmerling",
+  "annal:type": "foaf:Person",
+  "annal:type_id": "foaf_Person",
+  "annal:uri": "agent:Ryszard_Emmerling",
+  "foaf:familyName": "Emmerling",
+  "foaf:givenName": "Ryszard",
+  "foaf:name": "Ryszard Emmerling",
+  "rdfs:comment": "Ryszard Emmerling",
+  "rdfs:label": "Ryszard Emmerling"
+}

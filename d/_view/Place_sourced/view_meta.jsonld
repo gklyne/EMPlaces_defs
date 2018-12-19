@@ -115,6 +115,11 @@
       "annal:field_id": "_field/editorialNote",
       "annal:field_placement": "small:0,12",
       "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/canonicalURI",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
     }
   ],
   "rdfs:comment": "# Place data from single source view\r\n\r\nView entity of type [Place data from single source]($BASE:_type/Place_sourced).",

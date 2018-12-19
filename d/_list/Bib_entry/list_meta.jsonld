@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Bib_entry",
   "annal:default_view": "_view/Bib_entry",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Bib_entry",
   "annal:list_entity_selector": "'em:Bib_entry' in [@type]",
   "annal:list_entity_type": "em:Bib_entry",

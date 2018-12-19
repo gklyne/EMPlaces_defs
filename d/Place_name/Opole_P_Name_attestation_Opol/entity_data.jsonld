@@ -13,6 +13,7 @@
   "annal:id": "Opole_P_Name_attestation_Opol",
   "annal:type": "em:Place_name",
   "annal:type_id": "Place_name",
+  "annal:uri": "place_name:Opole_P_Name_attestation_Opol",
   "em:language": "Language_value/la",
   "em:name": "Opol",
   "rdfs:comment": "# Opole place name: Opol (lat)",

@@ -13,8 +13,8 @@
   "annal:id": "Current",
   "annal:type": "em:Time_period",
   "annal:type_id": "Time_period",
-  "annal:uri": "emt:Current",
+  "annal:uri": "emp:Current",
   "em:timespan": "Time_span/Current",
-  "rdfs:comment": "# Current, as of 2018\r\n\r\nFor ease of retrieval, use this specific resource to label any current information (e.g. data extracted from GeoNames).  Additional Timespan values could be indicated if required to convey more specific information.\r\n\r\n@@TODO: should this be a more explicit value? E.g. `emt:Current_2018`\r\n",
+  "rdfs:comment": "# Current, as of 2018\r\n\r\nFor ease of retrieval, use this specific resource to label any current information (e.g. data extracted from GeoNames).  Additional Timespan values could be indicated if required to convey more specific information.\r\n\r\n@@TODO: should this be a more explicit value? E.g. `emp:Current_2018`\r\n",
   "rdfs:label": "Current, as of 2018"
 }

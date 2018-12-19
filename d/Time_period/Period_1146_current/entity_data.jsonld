@@ -13,7 +13,7 @@
   "annal:id": "Period_1146_current",
   "annal:type": "em:Time_period",
   "annal:type_id": "Time_period",
-  "annal:uri": "emt:Period_1146_current",
+  "annal:uri": "emp:Period_1146_current",
   "em:timespan": "Time_span/Timespan_1146_current",
   "rdfs:comment": "# Period 1146..current\r\n\r\n",
   "rdfs:label": "Period 1146..current"

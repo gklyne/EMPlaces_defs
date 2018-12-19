@@ -13,6 +13,7 @@
   "annal:id": "1584_Papal_Bull",
   "annal:type": "em:Source",
   "annal:type_id": "Source",
+  "annal:uri": "ems:1584_Papal_Bull",
   "em:link": "",
   "rdfs:comment": "# 1584 Papal Bull\r\n\r\nAssumed from adoption of Papal Bull (Gregorian) in 1584.",
   "rdfs:label": "1584 Papal Bull"

@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "foaf_Person/GK",
+  "@type": [
+    "foaf:Person",
+    "foaf:Agent",
+    "annal:EntityData"
+  ],
+  "annal:id": "GK",
+  "annal:type": "foaf:Person",
+  "annal:type_id": "foaf_Person",
+  "annal:uri": "agent:GK",
+  "foaf:name": "Graham Klyne",
+  "rdfs:comment": "GK",
+  "rdfs:label": "GK"
+}

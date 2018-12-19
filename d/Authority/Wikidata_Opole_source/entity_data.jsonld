@@ -14,7 +14,8 @@
   "annal:id": "Wikidata_Opole_source",
   "annal:type": "em:Authority",
   "annal:type_id": "Authority",
-  "em:link": "https://www.wikidata.org/wiki/Special:EntityData/Q92212",
+  "annal:uri": "ems:Wikidata_Opole_source",
+  "em:link": "",
   "em:short_label": "Wikidata",
   "rdfs:comment": "# Wikidata description for Opole\r\n\r\nView the [Wikidata edit page](https://www.wikidata.org/wiki/Q92212).\r\n\r\nThe \"Link\" field URL can content negotiate for data in one of the following MIME types:\r\n\r\n* application/json\r\n* application/vnd.php.serialized\r\n* text/n3\r\n* text/rdf+n3\r\n* text/turtle\r\n* application/x-turtle\r\n* application/n-triples\r\n* text/n-triples, text/plain\r\n* application/rdf+xml\r\n* application/xml\r\n* text/xml\r\n\r\nThis will then redirect to an appropriate URL for the selected format;. e.g. \r\n\r\n* [https://www.wikidata.org/wiki/Special:EntityData/Q92212.json](https://www.wikidata.org/wiki/Special:EntityData/Q92212.json) for JSON, or\r\n* [https://www.wikidata.org/wiki/Special:EntityData/Q92212.ttl](https://www.wikidata.org/wiki/Special:EntityData/Q92212.ttl) for turtle.\r\n\r\n",
   "rdfs:label": "Wikidata for Opole"

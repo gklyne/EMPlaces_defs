@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/Opole_P_EMLO",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_EMLO",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "annal:uri": "ems:Opole_P_EMLO",
+  "em:link": "http://emlo.bodleian.ox.ac.uk/profile/location/ae6d9771-a289-4428-bca4-a1da7ba264e6",
+  "em:short_label": "EMLO",
+  "rdfs:comment": "Letters sent from, received at or mentioning Opole, recorded in EMLO.",
+  "rdfs:label": "City of Opole (EMLO)"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Authority/Opole_P_Freebase",
+  "@type": [
+    "em:Authority",
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_Freebase",
+  "annal:type": "em:Authority",
+  "annal:type_id": "Authority",
+  "annal:uri": "ems:Opole_P_Freebase",
+  "em:link": "https://g.co/kg/m/0jx51",
+  "em:short_label": "Freebase",
+  "rdfs:comment": "Freebase record fort Opole",
+  "rdfs:label": "City of Opole (freebase)"
+}

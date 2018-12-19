@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Map_resource",
   "annal:default_view": "_view/Map_resource",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Map_resource",
   "annal:list_entity_selector": "'em:Map_resource' in [@type]",
   "annal:list_entity_type": "em:Map_resource",

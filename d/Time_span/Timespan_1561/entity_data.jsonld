@@ -13,6 +13,7 @@
   "annal:id": "Timespan_1561",
   "annal:type": "em:Time_span",
   "annal:type_id": "Time_span",
+  "annal:uri": "emt:Timespan_1561",
   "em:earliestEnd": "1561",
   "em:latestStart": "1561",
   "rdfs:comment": "# Timespan 1561",

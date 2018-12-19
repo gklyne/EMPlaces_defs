@@ -15,8 +15,9 @@
   "annal:id": "Opole_calendar_to_1584",
   "annal:type": "em:Calendar_used_annotation",
   "annal:type_id": "Calendar_used_annotation",
+  "annal:uri": "anno_cal:Opole_calendar_to_1584",
   "dcterms:created": "2018-10-08",
-  "dcterms:creator": "Arno Bosse / GK",
+  "dcterms:creator": "foaf_Person/GK",
   "em:competence": "Competence_value/ASSUMED",
   "em:source": [
     {
@@ -25,8 +26,8 @@
   ],
   "em:when": "Time_period/Period_to_1584",
   "oa:hasBody": "Calendar/Julian_old",
-  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:hasTarget": "Place_sourced/Opole_P_CofK",
   "oa:motivatedBy": "Annotation_motivation/CALENDAR_IN_USE",
-  "rdfs:comment": "Opole calendar used to 1584",
+  "rdfs:comment": "Opole calendar used to 1584\r\n\r\nData assembled by Arno Bosse.",
   "rdfs:label": "Opole calendar used to 1584"
 }

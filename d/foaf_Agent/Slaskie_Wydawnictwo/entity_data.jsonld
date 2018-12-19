@@ -13,6 +13,7 @@
   "annal:id": "Slaskie_Wydawnictwo",
   "annal:type": "foaf:Agent",
   "annal:type_id": "foaf_Agent",
+  "annal:uri": "agent:Slaskie_Wydawnictwo",
   "foaf:name": "Wydawnictwo \u015al\u0105skie",
   "rdfs:comment": "Wydawnictwo \u015al\u0105skie",
   "rdfs:label": "Wydawnictwo \u015al\u0105skie"

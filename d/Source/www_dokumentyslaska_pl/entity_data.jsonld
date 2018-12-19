@@ -13,6 +13,7 @@
   "annal:id": "www_dokumentyslaska_pl",
   "annal:type": "em:Source",
   "annal:type_id": "Source",
+  "annal:uri": "ems:www_dokumentyslaska_pl",
   "em:link": "http://www.dokumentyslaska.pl",
   "rdfs:comment": "# www.dokumentyslaska.pl",
   "rdfs:label": "www.dokumentyslaska.pl"

@@ -13,8 +13,9 @@
   "annal:id": "Opole_current",
   "annal:type": "em:Setting",
   "annal:type_id": "Setting",
+  "annal:uri": "setting:Opole_current",
   "em:location": "Location_value/Opole_location",
-  "em:source": "Authority/GeoNames_source",
+  "em:source": "Authority/GeoNames_Opole_source",
   "em:when": "Time_period/Current",
   "rdfs:comment": "# City of Opole",
   "rdfs:label": "City of Opole"

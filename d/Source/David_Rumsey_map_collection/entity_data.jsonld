@@ -13,6 +13,7 @@
   "annal:id": "David_Rumsey_map_collection",
   "annal:type": "em:Source",
   "annal:type_id": "Source",
+  "annal:uri": "ems:David_Rumsey_map_collection",
   "em:link": "https://davidrumsey.georeferencer.com/",
   "rdfs:comment": "# David Rumsey map collection",
   "rdfs:label": "David Rumsey map collection"

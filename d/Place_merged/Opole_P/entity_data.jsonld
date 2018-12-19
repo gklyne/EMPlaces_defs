@@ -20,7 +20,10 @@
       "@id": "Place_sourced/Opole_P_GeoNames"
     },
     {
-      "@id": "Place_sourced/Opole_P_EMPlaces"
+      "@id": "Place_sourced/Opole_P_CofK"
+    },
+    {
+      "@id": "Place_sourced/Opole_P_wikidata"
     }
   ],
   "rdfs:comment": "# City of Opole\r\n\r\nAuthority data from GeoNames, and additional provided by EMPlaces project.",

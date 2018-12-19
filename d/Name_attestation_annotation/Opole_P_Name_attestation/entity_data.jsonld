@@ -15,8 +15,9 @@
   "annal:id": "Opole_P_Name_attestation",
   "annal:type": "em:Name_attestation_annotation",
   "annal:type_id": "Name_attestation_annotation",
+  "annal:uri": "anno_nam:Opole_P_Name_attestation",
   "dcterms:created": "2018-10-08",
-  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "dcterms:creator": "foaf_Person/GK",
   "em:competence": "Competence_value/DEFINITIVE",
   "em:source": [
     {
@@ -30,8 +31,8 @@
   ],
   "em:when": "Time_period/Period_1146_current",
   "oa:hasBody": "Place_name/Opole_P_Name_Opole",
-  "oa:hasTarget": "Place_sourced/Opole_P_EMPlaces",
+  "oa:hasTarget": "Place_sourced/Opole_P_CofK",
   "oa:motivatedBy": "Annotation_motivation/NAME_ATTESTATION",
-  "rdfs:comment": "Name attestation: Opole",
+  "rdfs:comment": "Name attestation: Opole\r\n\r\nData assembled by Dariusz Gierczak / Arno Bosse.",
   "rdfs:label": "Opole name attestation (pol)"
 }

@@ -13,6 +13,7 @@
   "annal:id": "Timespan_1477_1945",
   "annal:type": "em:Time_span",
   "annal:type_id": "Time_span",
+  "annal:uri": "emt:Timespan_1477_1945",
   "em:earliestEnd": "1945",
   "em:latestStart": "1477",
   "rdfs:comment": "# Timespan 1477..1945",

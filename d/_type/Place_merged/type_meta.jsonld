@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Place_merged",
+  "annal:ns_prefix": "place_merged",
   "annal:supertype_uri": [
     {
       "@id": "em:Place"

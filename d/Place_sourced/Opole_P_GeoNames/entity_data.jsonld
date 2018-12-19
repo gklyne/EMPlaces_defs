@@ -7,13 +7,14 @@
   ],
   "@id": "Place_sourced/Opole_P_GeoNames",
   "@type": [
-    "em:Place_subtype",
+    "em:Place_sourced",
     "em:Place",
     "annal:EntityData"
   ],
   "annal:id": "Opole_P_GeoNames",
-  "annal:type": "em:Place_subtype",
+  "annal:type": "em:Place_sourced",
   "annal:type_id": "Place_sourced",
+  "annal:uri": "place_sourced:Opole_P_GeoNames",
   "em:alternateAuthority": [],
   "em:alternateName": [
     {

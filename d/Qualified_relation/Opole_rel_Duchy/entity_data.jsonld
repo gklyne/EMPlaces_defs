@@ -13,10 +13,11 @@
   "annal:id": "Opole_rel_Duchy",
   "annal:type": "em:Qualified_relation",
   "annal:type_id": "Qualified_relation",
+  "annal:uri": "place_relation:Opole_rel_Duchy",
   "em:competence": "Competence_value/DEFINITIVE",
-  "em:relationTo": "Place_sourced/Opole_Duchy_EMPlaces",
+  "em:relationTo": "Place_sourced/Opole_Duchy_CofK",
   "em:relationType": "Relation_type/em_AH_PART_OF_AH",
-  "em:source": "",
+  "em:source": "Source/CofK",
   "em:when": "Time_period/Period_1281_1521",
   "rdfs:comment": "# Opole relation to Duch of Opole",
   "rdfs:label": "Opole relation to Duch of Opole"

@@ -1,0 +1,23 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "foaf_Person/Urszula_Zajaczkowska",
+  "@type": [
+    "foaf:Person",
+    "foaf:Agent",
+    "annal:EntityData"
+  ],
+  "annal:id": "Urszula_Zajaczkowska",
+  "annal:type": "foaf:Person",
+  "annal:type_id": "foaf_Person",
+  "annal:uri": "agent:Urszula_Zajaczkowska",
+  "foaf:familyName": "Zaj\u0105czkowska",
+  "foaf:givenName": "Urszula",
+  "foaf:name": "Urszula Zaj\u0105czkowska",
+  "rdfs:comment": "Urszula Zaj\u0105czkowska",
+  "rdfs:label": "Urszula Zaj\u0105czkowska"
+}

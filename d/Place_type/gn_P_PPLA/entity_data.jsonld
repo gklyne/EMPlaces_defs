@@ -8,6 +8,7 @@
   "@id": "Place_type/gn_P_PPLA",
   "@type": [
     "em:Place_type",
+    "em:Place_category_or_type",
     "skos:Concept",
     "annal:EntityData"
   ],

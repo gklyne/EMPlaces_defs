@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Annotation_motivation",
+  "annal:ns_prefix": "em",
   "annal:supertype_uri": [
     {
       "@id": "oa:Motivation"

@@ -11,12 +11,13 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Place",
+  "annal:ns_prefix": "emp",
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
   "annal:type_list": "_list/Place",
   "annal:type_view": "_view/Place",
   "annal:uri": "em:Place",
-  "rdfs:comment": "# Place\r\n\r\nA resource that provides information about a place (which is considered in the sense of being \"constructed by human experience\").\r\n\r\n@@TODO: is this a generic superclass of all place types?\r\n\r\n@@TODO: need to be clear about place vs info about place.\r\n",
+  "rdfs:comment": "# Place\r\n\r\nA resource that provides information about a place (which is considered in the sense of being \"constructed by human experience\").\r\n\r\n@@TODO: need to be clearer about place vs info about place?\r\n",
   "rdfs:label": "Place"
 }

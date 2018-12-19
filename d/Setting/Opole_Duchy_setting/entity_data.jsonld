@@ -13,6 +13,7 @@
   "annal:id": "Opole_Duchy_setting",
   "annal:type": "em:Setting",
   "annal:type_id": "Setting",
+  "annal:uri": "setting:Opole_Duchy_setting",
   "em:location": "",
   "em:source": "",
   "em:when": "Time_period/Period_1281_1809",

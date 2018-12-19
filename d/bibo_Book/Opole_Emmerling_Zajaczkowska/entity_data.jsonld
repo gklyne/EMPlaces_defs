@@ -14,7 +14,15 @@
   "annal:id": "Opole_Emmerling_Zajaczkowska",
   "annal:type": "bibo:Book",
   "annal:type_id": "bibo_Book",
-  "bibo:authorList": [],
+  "annal:uri": "ref:Opole_Emmerling_Zajaczkowska",
+  "bibo:authorList": [
+    {
+      "@id": "foaf_Person/Ryszard_Emmerling"
+    },
+    {
+      "@id": "foaf_Person/Urszula_Zajaczkowska"
+    }
+  ],
   "bibo:isbn10": "8391537137",
   "bibo:isbn13": "978-8391537138",
   "dcterms:date": "2003",

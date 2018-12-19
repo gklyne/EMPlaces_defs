@@ -13,6 +13,7 @@
   "annal:id": "ome_lexikon_uni_oldenburg_de",
   "annal:type": "em:Source",
   "annal:type_id": "Source",
+  "annal:uri": "ems:ome_lexikon_uni_oldenburg_de",
   "em:link": "http://ome-lexikon.uni-oldenburg.de",
   "rdfs:comment": "# ome-lexikon.uni-oldenburg.de\r\n\r\nhttp://ome-lexikon.uni-oldenburg.de",
   "rdfs:label": "ome-lexikon.uni-oldenburg.de"

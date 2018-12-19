@@ -13,6 +13,7 @@
   "annal:id": "Opole_P_Name_Oppeln",
   "annal:type": "em:Place_name",
   "annal:type_id": "Place_name",
+  "annal:uri": "place_name:Opole_P_Name_Oppeln",
   "em:language": "Language_value/de",
   "em:name": "Oppeln",
   "rdfs:comment": "# Opole place name: Oppeln (ger)",

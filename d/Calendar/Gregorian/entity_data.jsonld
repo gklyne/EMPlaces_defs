@@ -13,6 +13,7 @@
   "annal:id": "Gregorian",
   "annal:type": "em:Calendar",
   "annal:type_id": "Calendar",
+  "annal:uri": "emc:Gregorian",
   "em:link": "emc:Gregorian",
   "rdfs:comment": "# Gregorian calendar\r\n\r\nCalendar generally in use in Europe from about 23 Feb 1584.",
   "rdfs:label": "Gregorian calendar"

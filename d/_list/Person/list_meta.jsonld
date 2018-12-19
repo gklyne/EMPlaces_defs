@@ -9,9 +9,9 @@
   "@type": [
     "annal:List"
   ],
-  "annal:default_type": "_type/Person",
-  "annal:default_view": "_view/Person",
-  "annal:display_type": "List",
+  "annal:default_type": "_type/foaf_Person",
+  "annal:default_view": "_view/foaf_Person",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Person",
   "annal:list_entity_selector": "'foaf:Person' in [@type]",
   "annal:list_entity_type": "foaf:Person",
@@ -28,6 +28,6 @@
   "annal:type": "annal:List",
   "annal:type_id": "_list",
   "annal:uri": "annal:display/Default_list",
-  "rdfs:comment": "# Person list\n\nList entities of type [Person]($BASE:_type/Person).",
+  "rdfs:comment": "# Person list\r\n\r\nList entities of type [Person]($BASE:_type/Person).",
   "rdfs:label": "Person list"
 }

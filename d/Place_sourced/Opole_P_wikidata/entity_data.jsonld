@@ -1,0 +1,53 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place_sourced/Opole_P_wikidata",
+  "@type": [
+    "em:Place_sourced",
+    "em:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Opole_P_wikidata",
+  "annal:type": "em:Place_sourced",
+  "annal:type_id": "Place_sourced",
+  "annal:uri": "place_sourced:Opole_P_wikidata",
+  "em:alternateAuthority": [
+    {
+      "@id": "Authority/Opole_P_Freebase"
+    },
+    {
+      "@id": "Authority/Opole_P_GND"
+    }
+  ],
+  "em:alternateName": [
+    {
+      "em:language": "",
+      "em:name": "Oppeln"
+    }
+  ],
+  "em:displayName": [],
+  "em:editorialNote": "",
+  "em:hasCalendarUsedAnnotation": [],
+  "em:hasMapResourceAnnotation": [],
+  "em:hasNameAttestationAnnotation": [],
+  "em:hasRelation": [],
+  "em:placeCategory": "Place_category/gn_P",
+  "em:placeType": "Place_type/gn_P_PPL",
+  "em:preferredName": "Opole",
+  "em:reference": [],
+  "em:relatedResource": [
+    {
+      "@id": "Source/Opole_P_EMLO"
+    }
+  ],
+  "em:source": "Authority/Wikidata_Opole_source",
+  "em:when": "Time_period/Current",
+  "em:where": [],
+  "rdfs:comment": "City with powiat rights of Poland",
+  "rdfs:label": "City of Opole (wikidata)",
+  "rdfs:seeAlso": []
+}

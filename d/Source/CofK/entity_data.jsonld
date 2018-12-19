@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Source/CofK",
+  "@type": [
+    "em:Source",
+    "annal:EntityData"
+  ],
+  "annal:id": "CofK",
+  "annal:type": "em:Source",
+  "annal:type_id": "Source",
+  "annal:uri": "ems:CofK",
+  "em:link": "http://www.culturesofknowledge.org/",
+  "em:short_label": "CofK",
+  "rdfs:comment": "# CofK project activity\r\n\r\nData additional to authority sources published by the Cultures of Knowledge team.",
+  "rdfs:label": "CofK project activity"
+}

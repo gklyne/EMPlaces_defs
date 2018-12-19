@@ -12,7 +12,7 @@
   "annal:id": "em",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
-  "annal:uri": "http://id.emplaces.info/place/vocab/",
+  "annal:uri": "http://id.emplaces.info/vocab/",
   "rdfs:comment": "# EMPlaces terms\r\n\r\nNamespaces for terms used to structure EMPlaces place descriptions",
   "rdfs:label": "EMPlaces terms",
   "rdfs:seeAlso": [

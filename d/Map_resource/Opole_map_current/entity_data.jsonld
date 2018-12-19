@@ -13,6 +13,7 @@
   "annal:id": "Opole_map_current",
   "annal:type": "em:Map_resource",
   "annal:type_id": "Map_resource",
+  "annal:uri": "map_resource:Opole_map_current",
   "em:link": "http://www.geonames.org/3090048/opole.html",
   "em:preview": "http://www.geonames.org/3090048/opole.html",
   "em:short_label": "Current",

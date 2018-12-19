@@ -15,6 +15,7 @@
   "annal:missing_field": "",
   "annal:type": "em:Authority",
   "annal:type_id": "Authority",
+  "annal:uri": "ems:GeoNames_Opole_source",
   "em:link": "http://sws.geonames.org/3090048/about.rdf",
   "em:short_label": "GeoNames",
   "rdfs:comment": "# GeoNames data for Opole\r\n\r\nView [GeoNames page](http://www.geonames.org/3090048/opole.html).",

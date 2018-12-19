@@ -5,15 +5,16 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "Place_sourced/Opole_P_EMPlaces",
+  "@id": "Place_sourced/Opole_P_CofK",
   "@type": [
-    "em:Place_subtype",
+    "em:Place_sourced",
     "em:Place",
     "annal:EntityData"
   ],
-  "annal:id": "Opole_P_EMPlaces",
-  "annal:type": "em:Place_subtype",
+  "annal:id": "Opole_P_CofK",
+  "annal:type": "em:Place_sourced",
   "annal:type_id": "Place_sourced",
+  "annal:uri": "place_sourced:Opole_P_CofK",
   "em:alternateAuthority": [
     {
       "@id": "Authority/GeoNames_Opole_source"
@@ -26,13 +27,9 @@
     }
   ],
   "em:alternateName": [],
+  "em:canonicalURI": "place:Opole_P",
   "em:displayName": [],
   "em:editorialNote": "Getty Thesaurus of Geographic Names (05/03/2018):\r\n\r\nLocated on Oder River; passed to Bohemia in 1327, to Habsburgs in 1742 & returned to Poland in 1945; is important port between Wroc\u0142aw & Upper Silesia; economy depends on cement factories & iron foundries; noted for many historic buildings.\r\n",
-  "em:hasAnnotation": [
-    {
-      "@id": "Contextualized_annotation/Opole_anno_map_current"
-    }
-  ],
   "em:hasCalendarUsedAnnotation": [
     {
       "@id": "Calendar_used_annotation/Opole_calendar_to_1584"
@@ -78,9 +75,6 @@
   "em:hasRelation": [
     {
       "@id": "Qualified_relation/Opole_rel_Duchy"
-    },
-    {
-      "@id": ""
     }
   ],
   "em:placeCategory": "Place_category/gn_P",
@@ -111,15 +105,15 @@
       "@id": "Source/Behuneck_1855"
     }
   ],
-  "em:source": "Source/EMPlaces",
+  "em:source": "Source/CofK",
   "em:when": "Time_period/Current",
   "em:where": [
     {
       "@id": "Setting/Opole_current"
     }
   ],
-  "rdfs:comment": "Opole is a city located in southern Poland on the Oder River and the historical capital of Upper Silesia. With a population of approximately 127,792 (January 2017), it is currently the capital of the Opole Voivodeship and, also the seat of Opole County. With its long history dating back to the 8th century, Opole is one of the oldest cities in Poland. (From [Wikipedia](https://en.wikipedia.org/wiki/Opole).)",
-  "rdfs:label": "City of Opole (EMPlaces)",
+  "rdfs:comment": "Opole is a city located in southern Poland on the Oder River and the historical capital of Upper Silesia. With a population of approximately 127,792 (January 2017), it is currently the capital of the Opole Voivodeship and, also the seat of Opole County. With its long history dating back to the 8th century, Opole is one of the oldest cities in Poland. (From [Wikipedia](https://en.wikipedia.org/wiki/Opole).)\r\n",
+  "rdfs:label": "City of Opole (CofK)",
   "rdfs:seeAlso": [
     {
       "@id": "http://en.wikipedia.org/wiki/Opole"

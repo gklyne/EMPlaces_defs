@@ -13,38 +13,39 @@
   "annal:id": "Opole_P_mixed_data",
   "annal:type": "em:Place",
   "annal:type_id": "Place",
+  "annal:uri": "emp:Opole_P_mixed_data",
   "em:alternateName": [
     {
       "em:language": "",
-      "em:name":   "Opole"
+      "em:name": "Opole"
     },
     {
       "em:language": "",
-      "em:name":   "Oppein"
+      "em:name": "Oppein"
     },
     {
       "em:language": "",
-      "em:name":   "Oppeln"
+      "em:name": "Oppeln"
     },
     {
       "em:language": "Language_value/ko",
-      "em:name":   "\uc624\ud3f4\ub808"
+      "em:name": "\uc624\ud3f4\ub808"
     },
     {
       "em:language": "Language_value/ja",
-      "em:name":   "\u30aa\u30dd\u30fc\u30ec"
+      "em:name": "\u30aa\u30dd\u30fc\u30ec"
     },
     {
       "em:language": "Language_value/th",
-      "em:name":   "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25"
+      "em:name": "\u0e2d\u0e2d\u0e1b\u0e2d\u0e40\u0e25"
     },
     {
       "em:language": "Language_value/da",
-      "em:name":   "Opole"
+      "em:name": "Opole"
     },
     {
       "em:language": "Language_value/en",
-      "em:name":   "Opole"
+      "em:name": "Opole"
     }
   ],
   "em:displayName": [

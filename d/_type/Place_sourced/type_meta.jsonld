@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Place_sourced",
+  "annal:ns_prefix": "place_sourced",
   "annal:supertype_uri": [
     {
       "@id": "em:Place"
@@ -20,7 +21,7 @@
   "annal:type_id": "_type",
   "annal:type_list": "_list/Place_sourced",
   "annal:type_view": "_view/Place_sourced",
-  "annal:uri": "em:Place_subtype",
+  "annal:uri": "em:Place_sourced",
   "rdfs:comment": "# Place data from single source\r\n\r\nEntity type [Place data from single source]($BASE:_type/Place_sourced), subtype of [Place]($BASE:_type/Place).\r\n\r\nThis uses the same basic structure as [Place]($BASE:_type/Place), but is intended to be used for information from a single source (authority), with property `em:source` referencing a description of that source.\r\n\r\nData from multiple sources is then brought together as a [Merged place data from multiple sources]($BASE:_type/Place_merged) entity, which references the various individual sources.",
   "rdfs:label": "Place data from single source"
 }

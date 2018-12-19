@@ -15,8 +15,9 @@
   "annal:id": "Opole_P_Name_attestation_Opul",
   "annal:type": "em:Name_attestation_annotation",
   "annal:type_id": "Name_attestation_annotation",
+  "annal:uri": "anno_nam:Opole_P_Name_attestation_Opul",
   "dcterms:created": "2018-10-08",
-  "dcterms:creator": "Dariusz Gierczak / Arno Bosse / GK",
+  "dcterms:creator": "foaf_Person/GK",
   "em:competence": "Competence_value/DEFINITIVE",
   "em:source": [
     {
@@ -25,8 +26,8 @@
   ],
   "em:when": "Time_period/Period_1322_1417",
   "oa:hasBody": "Place_name/Opole_P_Name_Opul",
-  "oa:hasTarget": "Place/Opole_P_Geonames",
+  "oa:hasTarget": "Place_sourced/Opole_P_CofK",
   "oa:motivatedBy": "Annotation_motivation/NAME_ATTESTATION",
-  "rdfs:comment": "Opole name attestation: Opul (ger)",
+  "rdfs:comment": "Opole name attestation: Opul (ger)\r\n\r\nData assembled by Dariusz Gierczak / Arno Bosse.\r\n",
   "rdfs:label": "Opole name attestation: Opul (ger)"
 }

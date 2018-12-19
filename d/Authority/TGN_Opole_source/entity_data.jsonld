@@ -14,6 +14,7 @@
   "annal:id": "TGN_Opole_source",
   "annal:type": "em:Authority",
   "annal:type_id": "Authority",
+  "annal:uri": "ems:TGN_Opole_source",
   "em:link": "http://vocab.getty.edu/page/tgn/7007751",
   "em:short_label": "TGN",
   "rdfs:comment": "# TGN data for Opole\r\n\r\nView [TGN page](http://www.getty.edu/vow/TGNFullDisplay?find=opole&place=&nation=&english=Y&subjectid=7007751).\r\n\r\nDereferencing the \"link\" URL returns RDF data\r\n",

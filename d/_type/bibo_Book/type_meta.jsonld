@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "bibo_Book",
+  "annal:ns_prefix": "ref",
   "annal:supertype_uri": [
     {
       "@id": "em:Bib_entry"

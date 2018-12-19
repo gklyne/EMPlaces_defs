@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/foaf_Agent",
   "annal:default_view": "_view/foaf_Agent",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "foaf_Agent",
   "annal:list_entity_selector": "'foaf:Agent' in [@type]",
   "annal:list_entity_type": "foaf:Agent",

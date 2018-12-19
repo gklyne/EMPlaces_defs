@@ -13,6 +13,7 @@
   "annal:id": "Julian_new",
   "annal:type": "em:Calendar",
   "annal:type_id": "Calendar",
+  "annal:uri": "emc:Julian_new",
   "em:link": "emc:Julian_new",
   "rdfs:comment": "# Julian calendar (New)\r\n\r\n\"New style\" Julian calendar, year begins on 1 Jan.",
   "rdfs:label": "Julian calendar (New)"

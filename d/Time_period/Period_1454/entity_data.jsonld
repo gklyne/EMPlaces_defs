@@ -13,7 +13,7 @@
   "annal:id": "Period_1454",
   "annal:type": "em:Time_period",
   "annal:type_id": "Time_period",
-  "annal:uri": "emt:Period_1454",
+  "annal:uri": "emp:Period_1454",
   "em:timespan": "Time_span/Timespan_1454",
   "rdfs:comment": "# Period 1454\r\n",
   "rdfs:label": "Period 1454"

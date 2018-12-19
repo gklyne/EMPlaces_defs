@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Contextualized_annotation",
   "annal:default_view": "_view/Contextualized_annotation",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Contextualized_annotation",
   "annal:list_entity_selector": "'em:Annotation' in [@type]",
   "annal:list_entity_type": "em:Annotation",

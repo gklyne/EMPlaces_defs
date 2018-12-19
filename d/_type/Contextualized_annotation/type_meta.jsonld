@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Contextualized_annotation",
+  "annal:ns_prefix": "annotation",
   "annal:supertype_uri": [
     {
       "@id": "oa:Annotation"

@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Location_value",
   "annal:default_view": "_view/Location_value",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Location_value",
   "annal:list_entity_selector": "'em:Location_value' in [@type]",
   "annal:list_entity_type": "em:Location_value",

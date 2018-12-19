@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Bib_entry",
+  "annal:ns_prefix": "ref",
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",

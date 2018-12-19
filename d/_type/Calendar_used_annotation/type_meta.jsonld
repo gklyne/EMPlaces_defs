@@ -11,6 +11,7 @@
   ],
   "annal:field_aliases": [],
   "annal:id": "Calendar_used_annotation",
+  "annal:ns_prefix": "anno_cal",
   "annal:supertype_uri": [
     {
       "@id": "em:Annotation"
