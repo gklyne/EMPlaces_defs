@@ -28,6 +28,6 @@
   "annal:tooltip": "",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Timespan\r\n\r\nA time span associated with a time period.\r\n\r\nemt:Current a em:Time_period ;\r\n    rdfs:label   \"Current, as of 2018\" ;\r\n    rdfs:comment \"For ease of retrieval, use this specific resource to label any current information (e.g. data extracted from GeoNames).  Additional Timespan values could be indicated if required to convey more specific information.\" ;\r\n    em:timespan\r\n      [ a em:Time_span ;\r\n        em:latestStart: \"2018\" ;\r\n        em:earliestEnd: \"2018\" ;\r\n      ]\r\n    .",
+  "rdfs:comment": "# Timespan\r\n\r\nA time span associated with a time period.\r\n\r\n    emt:Current a em:Time_period ;\r\n        rdfs:label   \"Current, as of 2018\" ;\r\n        rdfs:comment \"For ease of retrieval, use this specific resource to label any current information (e.g. data extracted from GeoNames). Additional Timespan values could be indicated if required to convey more specific information.\" ;\r\n        em:timespan\r\n          [ a em:Time_span ;\r\n            em:latestStart: \"2018\" ;\r\n            em:earliestEnd: \"2018\" ;\r\n          ]\r\n        .\r\n",
   "rdfs:label": "Timespan"
 }
