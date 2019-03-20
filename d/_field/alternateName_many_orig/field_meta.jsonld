@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_field/alternateName_many",
+  "@id": "_field/alternateName_many_orig",
   "@type": [
     "annal:Field"
   ],
@@ -13,9 +13,19 @@
   "annal:field_entity_type": "em:Place",
   "annal:field_fields": [
     {
-      "annal:field_id": "_field/name_lang_string",
+      "annal:field_id": "_field/name_string",
       "annal:field_placement": "small:0,6",
       "annal:property_uri": "em:name"
+    },
+    {
+      "annal:field_id": "_field/name_language",
+      "annal:field_placement": "small:6,3",
+      "annal:property_uri": "em:language"
+    },
+    {
+      "annal:field_id": "_field/Filler",
+      "annal:field_placement": "small:9,3",
+      "annal:property_uri": ""
     }
   ],
   "annal:field_placement": "small:0,12;medium:0,6",
@@ -25,7 +35,7 @@
   "annal:field_render_type": "_enum_render_type/Group_Set_Row",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "em:Place",
-  "annal:id": "alternateName_many",
+  "annal:id": "alternateName_many_orig",
   "annal:placeholder": "(Zero, one or more Alternate name fields)",
   "annal:property_uri": "em:alternateName",
   "annal:repeat_label_add": "Add Alternate name",
