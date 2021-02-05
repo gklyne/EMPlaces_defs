@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_field/latestStart",
+  "@id": "_field/end",
   "@type": [
     "annal:Field"
   ],
@@ -19,15 +19,15 @@
   "annal:field_render_type": "_enum_render_type/Text",
   "annal:field_value_mode": "_enum_value_mode/Value_direct",
   "annal:field_value_type": "xsd:year",
-  "annal:id": "latestStart",
-  "annal:placeholder": "(Year, expressed using Gregorian calendar, by which a timespan is known  to have started)",
-  "annal:property_uri": "em:latestStart",
+  "annal:id": "end",
+  "annal:placeholder": "(Year, expressed using Gregorian calendar, during which a timespan ends)",
+  "annal:property_uri": "em:end",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],
-  "annal:tooltip": "",
+  "annal:tooltip": "The year in which a timespan ends, expressed using Gregorian calendar.",
   "annal:type": "annal:Field",
   "annal:type_id": "_field",
-  "rdfs:comment": "# Latest start year\r\n\r\nThe latest year by which a timespan has started, expressed using Gregorian calendar.\r\n\r\nThe intent is that this captures definite knowledge about a timespan, which may have started at some unknown time before the indicated year.\r\n",
-  "rdfs:label": "Latest start year"
+  "rdfs:comment": "# End year\r\n\r\nThe year in which a timespan ends, expressed using Gregorian calendar.\r\n\r\nNOTE using this property with value `Y` is equivalent to using both of the following:\r\n\r\n    em:earliestEnd Y ;\r\n    em:latestEnd Y ;\r\n",
+  "rdfs:label": "End year"
 }

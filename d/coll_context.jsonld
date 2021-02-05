@@ -1,8 +1,8 @@
 {
   "@context": {
-    "_base_": "http://localhost:8000/annalist/c/EMPlaces_defs/d/",
-    "_coll_": "http://localhost:8000/annalist/c/EMPlaces_defs/",
-    "_site_": "http://localhost:8000/annalist/",
+    "_base_": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/",
+    "_coll_": "https://demo.annalist.net/annalist/c/EMPlaces_defs/",
+    "_site_": "https://demo.annalist.net/annalist/",
     "agent": "http://id.emplaces.info/agent/",
     "annal": "http://purl.org/annalist/2014/#",
     "annal:alias_source": {
@@ -70,12 +70,12 @@
     },
     "annal:field_id": {
       "@type": "@id",
-      "fid": "Group_fields",
-      "subfid": "Group_field_sel"
+      "fid": "List_fields",
+      "subfid": "List_field_sel"
     },
     "annal:field_placement": {
-      "fid": "Group_fields",
-      "subfid": "Group_field_placement"
+      "fid": "List_fields",
+      "subfid": "List_field_placement"
     },
     "annal:field_ref_field": {
       "@type": "@id",
@@ -157,8 +157,8 @@
     },
     "annal:property_uri": {
       "@type": "@id",
-      "fid": "Group_fields",
-      "subfid": "Group_field_property"
+      "fid": "View_fields",
+      "subfid": "View_field_property"
     },
     "annal:repeat_label_add": {
       "fid": "Field_repeat_label_add",
@@ -230,10 +230,10 @@
       "fid": "View_fields",
       "vid": "View_view"
     },
-    "anno_cal": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Calendar_used_annotation/",
-    "anno_map": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Map_resource_annotation/",
-    "anno_nam": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Name_attestation_annotation/",
-    "annotation": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Contextualized_annotation/",
+    "anno_cal": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Calendar_used_annotation/",
+    "anno_map": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Map_resource_annotation/",
+    "anno_nam": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Name_attestation_annotation/",
+    "annotation": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Contextualized_annotation/",
     "as": "http://www.w3.org/ns/activitystreams#",
     "bibo": "http://purl.org/ontology/bibo/",
     "bibo:authorList": {
@@ -296,12 +296,12 @@
     "em:canonicalURI": {
       "@type": "@id",
       "fid": "canonicalURI",
-      "vid": "Place_merged"
+      "vid": "Place_sourced"
     },
     "em:competence": {
       "@type": "@id",
       "fid": "competence",
-      "vid": "Calendar_used_annotation"
+      "vid": "Name_attestation_annotation"
     },
     "em:displayName": {
       "@container": "@set",
@@ -316,11 +316,6 @@
     "em:editorialNote": {
       "fid": "editorialNote",
       "vid": "Place"
-    },
-    "em:fromType": {
-      "@type": "@id",
-      "fid": "from_type",
-      "vid": "Relation_type"
     },
     "em:hasCalendarUsedAnnotation": {
       "@container": "@set",
@@ -357,8 +352,8 @@
     },
     "em:link": {
       "@type": "@id",
-      "fid": "link",
-      "vid": "Calendar"
+      "fid": "Link",
+      "vid": "Source"
     },
     "em:location": {
       "@type": "@id",
@@ -418,13 +413,13 @@
     },
     "em:short_label": {
       "fid": "short_label",
-      "vid": "Map_resource"
+      "vid": "Source"
     },
     "em:source": {
       "@container": "@set",
       "@type": "@id",
       "fid": "source_many",
-      "vid": "Calendar_used_annotation"
+      "vid": "Name_attestation_annotation"
     },
     "em:tag_639_1": {
       "fid": "tag_639_1",
@@ -439,15 +434,10 @@
       "fid": "timespan",
       "vid": "Time_period"
     },
-    "em:toType": {
-      "@type": "@id",
-      "fid": "to_type",
-      "vid": "Relation_type"
-    },
     "em:when": {
       "@type": "@id",
       "fid": "when",
-      "vid": "Calendar_used_annotation"
+      "vid": "Name_attestation_annotation"
     },
     "em:where": {
       "@container": "@set",
@@ -480,8 +470,8 @@
       "@id": "annal:import_url",
       "@type": "@id"
     },
-    "location": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Location_value/",
-    "map_resource": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Map_resource/",
+    "location": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Location_value/",
+    "map_resource": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Map_resource/",
     "oa": "http://www.w3.org/ns/oa#",
     "oa:hasBody": {
       "@type": "@id",
@@ -500,12 +490,12 @@
     },
     "owl": "http://www.w3.org/2002/07/owl#",
     "place": "http://id.emplaces.info/place/",
-    "place_category": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Place_category/",
-    "place_merged": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Place_merged/",
-    "place_name": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Place_name/",
-    "place_relation": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Qualified_relation/",
-    "place_sourced": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Place_sourced/",
-    "place_type": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Place_type/",
+    "place_category": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Place_category/",
+    "place_merged": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Place_merged/",
+    "place_name": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Place_name/",
+    "place_relation": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Qualified_relation/",
+    "place_sourced": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Place_sourced/",
+    "place_type": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Place_type/",
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "rdfs:comment": {
@@ -558,7 +548,7 @@
     "resource_name": "annal:resource_name",
     "resource_type": "annal:resource_type",
     "schema": "http://schema.org/",
-    "setting": "http://localhost:8000/annalist/c/EMPlaces_defs/d/Setting/",
+    "setting": "https://demo.annalist.net/annalist/c/EMPlaces_defs/d/Setting/",
     "skos": "http://www.w3.org/2004/02/skos/core#",
     "skos:broader": {
       "@container": "@set",
@@ -592,5 +582,5 @@
     },
     "xsd": "http://www.w3.org/2001/XMLSchema#"
   },
-  "_comment": "Generated by generate_coll_jsonld_context on 2019-03-20 16:06:40"
+  "_comment": "Generated by generate_coll_jsonld_context on 2019-12-17 12:32:26"
 }
